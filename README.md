@@ -19,6 +19,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 東野研究室の[@s-kojima](https://github.com/s-kojima)です。よろしくお願いします。
 * Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
+    * [hello_trema](https://github.com/tinygoodcheese/hello_trema) 
 * 長谷川研の西山です。[@yyynishi](https://github.com/yyynishi)
 * Yuki Koizumi [@yuki-koizumi](https://github.com/yuki-koizumi)
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
