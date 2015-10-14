@@ -1,3 +1,4 @@
+s
 # self_intro
 
 _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
@@ -16,6 +17,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https://github.com/h-miyakawa/hello_trema)
 * 村田研の [@k-kawashima](https://github.com/k-kawashima) です。よろしくお願いします。
 * こんにちは [@k-nakahr](https://github.com/k-nakahr) です．
+    * [hello_trema](https://github.com/k-nakahr/hello_trema)
 * 東野研究室の[@s-kojima](https://github.com/s-kojima)です。よろしくお願いします。
 * Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
