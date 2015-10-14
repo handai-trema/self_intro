@@ -31,6 +31,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https://github.com/k-ya/hello_trema)
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。
 * 渡辺研 [@shusaku008](https://github.com/shusaku008)です。
+    * [hello_trema](https://github.com/shusaku008/hello_trema)
 * こんにちは [@a-nakanishi](https://github.com/a-nakanishi) です!
   これからよろしくおねがいします!
 * 渡辺研の [@AiharaMasahiko](https://github.com/AiharaMasahiko) です。よろしくお願いします。
