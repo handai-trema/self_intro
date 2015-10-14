@@ -39,3 +39,6 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 渡辺研の [@AiharaMasahiko](https://github.com/AiharaMasahiko) です。よろしくお願いします。
     * [hello_trema](https://github.com/AiharaMasahiko/hello_trema)
 * 渡辺研の[@Seitaro-Sugihara](https://github.com/Seitaro-Sugihara) です。よろしくお願いします。
+* 村田研の [@mkfsn](https://github.com/mkfsn)です。よろしくお願いします。
+    * [hello_trema](https:/github.com/mkfsn/hello_trema)
+  
