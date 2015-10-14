@@ -23,6 +23,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Yuki Koizumi [@yuki-koizumi](https://github.com/yuki-koizumi)
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
 * Hi, This is [@t-kitagw](https://github.com/t-kitagw).
+    * [hello_trema](https://github.com/t-kitagw/hello_trema)
 * I'm [@ToshihikoAramaki](https://github.com/ToshihikoAramaki)
 * 村田研 [@k-ya](https://github.com/k-ya) です。
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。
