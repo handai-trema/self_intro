@@ -16,6 +16,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
     * [hello_trema](https://github.com/h-miyakawa/hello_trema)
 * 村田研の [@k-kawashima](https://github.com/k-kawashima) です。よろしくお願いします。
+    * [hello_trema](https://github.com/k-kawashima/hello_trema)
 * こんにちは [@k-nakahr](https://github.com/k-nakahr) です．
     * [hello_trema](https://github.com/k-nakahr/hello_trema)
 * 東野研究室の[@s-kojima](https://github.com/s-kojima)です。よろしくお願いします。
