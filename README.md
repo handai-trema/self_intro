@@ -11,6 +11,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
     * [hello_trema](https://github.com/ukatawagatik/hello_trema)
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
+    * [hello_trema](https://github.com/exp038/hello_trema)
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 * 東野研究室の[@s-sigaki](https://github.com/s-sigaki)です。私の自己紹介消したやつ絶許
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
