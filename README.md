@@ -1,4 +1,3 @@
-s
 # self_intro
 
 _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
@@ -7,6 +6,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
   これからよろしくおねがいします!
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
+    * [hello_trema](https://github.com/yamatchan/hello_trema)
 * こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
     * [hello_trema](https://github.com/ukatawagatik/hello_trema)
