@@ -8,6 +8,8 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
     * [hello_trema](https://github.com/yamatchan/hello_trema)
 * こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
+    * [hello_trema](https://github.com/fbkclanna/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-fbkclanna)
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
     * [hello_trema](https://github.com/ukatawagatik/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-ukatawagatik)
