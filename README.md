@@ -7,6 +7,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
     * [hello_trema](https://github.com/yamatchan/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-yamatchan)
 * こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
     * [hello_trema](https://github.com/fbkclanna/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-fbkclanna)
@@ -15,7 +16,6 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [cbench](https://github.com/handai-trema/cbench-ukatawagatik)
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
     * [hello_trema](https://github.com/exp038/hello_trema)
-* こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 * 東野研究室の[@s-sigaki](https://github.com/s-sigaki)です。私の自己紹介消したやつ絶許
     * [hello_trema](https://github.com/s-sigaki/hello_trema)
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
