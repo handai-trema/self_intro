@@ -41,6 +41,8 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https://github.com/t-kitagw/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-t-kitagw)
 * I'm [@ToshihikoAramaki](https://github.com/ToshihikoAramaki)
+    * [hello_trema](https://github.com/ToshihikoAramaki/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-ToshihikoAramaki)
 * 村田研 [@k-ya](https://github.com/k-ya) です。
     * [hello_trema](https://github.com/k-ya/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-k-ya)
