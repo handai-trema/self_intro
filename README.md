@@ -21,7 +21,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [cbench](https://github.com/handai-trema/cbench-exp038)
 * 東野研究室の[@s-sigaki](https://github.com/s-sigaki)です。私の自己紹介消したやつ絶許
     * [hello_trema](https://github.com/s-sigaki/hello_trema)
-    * [cbench](https://github.com/s-sigaki/cbench-s-sigaki)
+    * [cbench](https://github.com/handai-trema/cbench-s-sigaki)
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
     * [hello_trema](https://github.com/h-miyakawa/hello_trema)
 * 村田研の [@k-kawashima](https://github.com/k-kawashima) です。よろしくお願いします。
