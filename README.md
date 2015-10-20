@@ -37,7 +37,8 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https://github.com/tinygoodcheese/hello_trema) 
     * [cbench](https://github.com/handai-trema/cbench-tinygoodcheese)
 * 長谷川研の西山です。[@yyynishi](https://github.com/yyynishi)
-    * [hello_trema](https://github.com/yyynishi/hello_trema) 
+    * [hello_trema](https://github.com/yyynishi/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-yyynishi) 
 * Yuki Koizumi [@yuki-koizumi](https://github.com/yuki-koizumi)
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
     * [hello_trema](https://github.com/IoriOtomo/hello_trema)
