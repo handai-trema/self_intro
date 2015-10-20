@@ -32,6 +32,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https://github.com/sunya-ch/hello_trema)
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
     * [hello_trema](https://github.com/tinygoodcheese/hello_trema) 
+    * [cbench](https://github.com/handai-trema/cbench-tinygoodcheese)
 * 長谷川研の西山です。[@yyynishi](https://github.com/yyynishi)
     * [hello_trema](https://github.com/yyynishi/hello_trema) 
 * Yuki Koizumi [@yuki-koizumi](https://github.com/yuki-koizumi)
