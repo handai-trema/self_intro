@@ -40,6 +40,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Yuki Koizumi [@yuki-koizumi](https://github.com/yuki-koizumi)
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
     * [hello_trema](https://github.com/IoriOtomo/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-IoriOtomo)
 * Hi, This is [@t-kitagw](https://github.com/t-kitagw).
     * [hello_trema](https://github.com/t-kitagw/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-t-kitagw)
