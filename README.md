@@ -48,6 +48,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https://github.com/gotooon/hello_trema)
 * 渡辺研 [@shusaku008](https://github.com/shusaku008)です。
     * [hello_trema](https://github.com/shusaku008/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-shusaku008)
 * こんにちは [@a-nakanishi](https://github.com/a-nakanishi) です!
   これからよろしくおねがいします!
     * [hello_trema](https://github.com/a-nakanishi/hello_trema)
