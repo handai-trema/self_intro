@@ -55,4 +55,5 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https:/github.com/Seitaro-Sugihara/hello_trema)
 * 村田研の [@mkfsn](https://github.com/mkfsn)です。よろしくお願いします。
     * [hello_trema](https:/github.com/mkfsn/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-mkfsn)
  
