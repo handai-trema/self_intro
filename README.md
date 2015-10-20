@@ -23,6 +23,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https://github.com/k-nakahr/hello_trema)
 * 東野研究室の[@s-kojima](https://github.com/s-kojima)です。よろしくお願いします。
     * [hello_trema](https://github.com/s-kojima/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-s-kojima)
 * Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
     * [hello_trema](https://github.com/sunya-ch/hello_trema)
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
