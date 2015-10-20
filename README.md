@@ -43,6 +43,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * I'm [@ToshihikoAramaki](https://github.com/ToshihikoAramaki)
 * 村田研 [@k-ya](https://github.com/k-ya) です。
     * [hello_trema](https://github.com/k-ya/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-k-ya)
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。よろしくお願いします！
     * [hello_trema](https://github.com/gotooon/hello_trema)
 * 渡辺研 [@shusaku008](https://github.com/shusaku008)です。
