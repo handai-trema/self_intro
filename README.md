@@ -61,8 +61,11 @@
     * [hello_trema](https://github.com/ToshihikoAramaki/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-ToshihikoAramaki)
 * 村田研 [@k-ya](https://github.com/k-ya) です。
+ 
+レポート:
     * [hello_trema](https://github.com/k-ya/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-k-ya)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-k-ya)
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。よろしくお願いします！
     * [hello_trema](https://github.com/gotooon/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-gotooon)
