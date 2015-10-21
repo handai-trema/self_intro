@@ -71,7 +71,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [hello_trema](https:/github.com/Seitaro-Sugihara/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-Seitaro-Sugihara)
 * 村田研の [@mkfsn](https://github.com/mkfsn)です。よろしくお願いします。
-    * [hello_trema](https:/github.com/mkfsn/hello_trema)
+    * [hello_trema](https://github.com/mkfsn/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-mkfsn)
 * 松岡研の [@pirororo0217](https://github.com/pirororo0217)です。よろしくお願いします。
     
