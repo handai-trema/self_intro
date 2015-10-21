@@ -66,6 +66,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [cbench](https://github.com/a-nakanishi/cbench-a-nakanishi)
 * 渡辺研の [@AiharaMasahiko](https://github.com/AiharaMasahiko) です。よろしくお願いします。
     * [hello_trema](https://github.com/AiharaMasahiko/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-AiharaMasahiko)
 * 渡辺研の[@Seitaro-Sugihara](https://github.com/Seitaro-Sugihara) です。よろしくお願いします。
     * [hello_trema](https:/github.com/Seitaro-Sugihara/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-Seitaro-Sugihara)
