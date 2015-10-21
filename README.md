@@ -14,10 +14,18 @@
 ## 受講者一覧
 
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
-* こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
-    * [hello_trema](https://github.com/yamatchan/hello_trema)
-    * [cbench](https://github.com/handai-trema/cbench-yamatchan)
-    * [learning_switch](https://github.com/handai-trema/learning_switch-yamatchan)
+
+----
+
+こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
+
+レポート:
+* [hello_trema](https://github.com/yamatchan/hello_trema)
+* [cbench](https://github.com/handai-trema/cbench-yamatchan)
+* [learning_switch](https://github.com/handai-trema/learning_switch-yamatchan)
+
+----
+
 * こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
     * [hello_trema](https://github.com/fbkclanna/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-fbkclanna)
