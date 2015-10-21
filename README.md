@@ -47,6 +47,7 @@
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
     * [hello_trema](https://github.com/tinygoodcheese/hello_trema) 
     * [cbench](https://github.com/handai-trema/cbench-tinygoodcheese)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-tinygoodcheese)
 * 長谷川研の西山です。[@yyynishi](https://github.com/yyynishi)
     * [hello_trema](https://github.com/yyynishi/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-yyynishi) 
