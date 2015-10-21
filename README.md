@@ -27,9 +27,9 @@
 こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
  
 レポート:
-    * [hello_trema](https://github.com/ukatawagatik/hello_trema)
-    * [cbench](https://github.com/handai-trema/cbench-ukatawagatik)
-    * [learning_switch](https://github.com/ukatawagatik/learning_switch)
+* [hello_trema](https://github.com/ukatawagatik/hello_trema)
+* [cbench](https://github.com/handai-trema/cbench-ukatawagatik)
+* [learning_switch](https://github.com/ukatawagatik/learning_switch)
 
 ----
 
