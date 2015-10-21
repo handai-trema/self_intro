@@ -3,15 +3,15 @@
 * 自己紹介とレポートを載せるページです
 * _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
 
-## 書き方
+## 書き方の例
 
-[@yasuhito](https://github.com/yasuhito) < Trema を開発しています。これから4ヶ月間よろしくおねがいします!
+[@yasuhito](https://github.com/yasuhito) Trema を開発しています。これから4ヶ月間よろしくおねがいします!
 
 レポート:
 * [hello_trema](http://www.yahoo.co.jp/)
 * [cbench](http://www.yahoo.co.jp/)
  
-----
+## 受講者一覧
 
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
