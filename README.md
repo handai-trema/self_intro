@@ -7,9 +7,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
     * [hello_trema](https://github.com/yamatchan/hello_trema)
-    * [cbench](https://github.com/yamatchan/cbench-yamatchan)
-    * handai-trema/cbench-yamatchan.gitにpushできなかったので，yamatchan/cbench-yamatchan.gitにリポジトリを作りました．
-    * たぶん，handai-trema/cbench-yamatchan.gitに権限がないのが原因だと思うので権限をください．
+    * [cbench](https://github.com/handai-trema/cbench-yamatchan)
 * こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
     * [hello_trema](https://github.com/fbkclanna/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-fbkclanna)
