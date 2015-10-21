@@ -44,6 +44,7 @@
 * Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
     * [hello_trema](https://github.com/sunya-ch/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-sunya-ch)
+    * [learning_switch Report](https://github.com/handai-trema/learning_switch-sunya-ch/)
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
     * [hello_trema](https://github.com/tinygoodcheese/hello_trema) 
     * [cbench](https://github.com/handai-trema/cbench-tinygoodcheese)
