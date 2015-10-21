@@ -7,9 +7,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
     * [hello_trema](https://github.com/yamatchan/hello_trema)
-    * [cbench](https://github.com/yamatchan/cbench-yamatchan)
-    * handai-trema/cbench-yamatchan.gitにpushできなかったので，yamatchan/cbench-yamatchan.gitにリポジトリを作りました．
-    * たぶん，handai-trema/cbench-yamatchan.gitに権限がないのが原因だと思うので権限をください．
+    * [cbench](https://github.com/handai-trema/cbench-yamatchan)
 * こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
     * [hello_trema](https://github.com/fbkclanna/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-fbkclanna)
@@ -21,6 +19,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [cbench](https://github.com/handai-trema/cbench-exp038)
 * 東野研究室の[@s-sigaki](https://github.com/s-sigaki)です。私の自己紹介消したやつ絶許
     * [hello_trema](https://github.com/s-sigaki/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-s-sigaki)
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
     * [hello_trema](https://github.com/h-miyakawa/hello_trema)
 * 村田研の [@k-kawashima](https://github.com/k-kawashima) です。よろしくお願いします。
@@ -56,6 +55,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [cbench](https://github.com/handai-trema/cbench-k-ya)
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。よろしくお願いします！
     * [hello_trema](https://github.com/gotooon/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-gotooon)
 * 渡辺研 [@shusaku008](https://github.com/shusaku008)です。
     * [hello_trema](https://github.com/shusaku008/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-shusaku008)
@@ -64,10 +64,14 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [cbench](https://github.com/handai-trema/cbench-a-nakanishi)
 * 渡辺研の [@AiharaMasahiko](https://github.com/AiharaMasahiko) です。よろしくお願いします。
     * [hello_trema](https://github.com/AiharaMasahiko/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-AiharaMasahiko)
 * 渡辺研の[@Seitaro-Sugihara](https://github.com/Seitaro-Sugihara) です。よろしくお願いします。
     * [hello_trema](https:/github.com/Seitaro-Sugihara/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-Seitaro-Sugihara)
 * 村田研の [@mkfsn](https://github.com/mkfsn)です。よろしくお願いします。
-    * [hello_trema](https:/github.com/mkfsn/hello_trema)
+    * [hello_trema](https://github.com/mkfsn/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-mkfsn)
+* 松岡研の [@pirororo0217](https://github.com/pirororo0217)です。よろしくお願いします。
+    
+
  
