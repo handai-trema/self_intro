@@ -1,9 +1,18 @@
 # self_intro
 
-_注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
+* 自己紹介とレポートを載せるページです
+* _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
 
-* こんにちは [@yasuhito](https://github.com/yasuhito) です! Trema を開発しています。
-  これからよろしくおねがいします!
+## 書き方の例
+
+[@yasuhito](https://github.com/yasuhito) Trema を開発しています。これから4ヶ月間よろしくおねがいします!
+
+レポート:
+* [hello_trema](http://www.yahoo.co.jp/)
+* [cbench](http://www.yahoo.co.jp/)
+ 
+## 受講者一覧
+
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
     * [hello_trema](https://github.com/yamatchan/hello_trema)
@@ -22,6 +31,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
     * [cbench](https://github.com/handai-trema/cbench-s-sigaki)
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
     * [hello_trema](https://github.com/h-miyakawa/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-h-miyakawa)
 * 村田研の [@k-kawashima](https://github.com/k-kawashima) です。よろしくお願いします。
     * [hello_trema](https://github.com/k-kawashima/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-k-kawashima)
@@ -37,6 +47,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
     * [hello_trema](https://github.com/tinygoodcheese/hello_trema) 
     * [cbench](https://github.com/handai-trema/cbench-tinygoodcheese)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-tinygoodcheese)
 * 長谷川研の西山です。[@yyynishi](https://github.com/yyynishi)
     * [hello_trema](https://github.com/yyynishi/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-yyynishi) 
@@ -50,9 +61,18 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * I'm [@ToshihikoAramaki](https://github.com/ToshihikoAramaki)
     * [hello_trema](https://github.com/ToshihikoAramaki/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-ToshihikoAramaki)
-* 村田研 [@k-ya](https://github.com/k-ya) です。
-    * [hello_trema](https://github.com/k-ya/hello_trema)
-    * [cbench](https://github.com/handai-trema/cbench-k-ya)
+
+----
+
+村田研 [@k-ya](https://github.com/k-ya) です。
+ 
+レポート:
+   * [hello_trema](https://github.com/k-ya/hello_trema)
+   * [cbench](https://github.com/handai-trema/cbench-k-ya)
+   * [learning_switch](https://github.com/handai-trema/learning_switch-k-ya)
+
+----
+
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。よろしくお願いします！
     * [hello_trema](https://github.com/gotooon/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-gotooon)
