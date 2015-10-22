@@ -5,7 +5,7 @@
 
 ## 書き方の例
 
-[@yasuhito](https://github.com/yasuhito) Trema を開発しています。これから4ヶ月間よろしくおねがいします!
+Trema を開発している [@yasuhito](https://github.com/yasuhito) です。これから4ヶ月間よろしくおねがいします!
 
 レポート:
 * [hello_trema](http://www.yahoo.co.jp/)
