@@ -94,8 +94,11 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 ----
 
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。よろしくお願いします！
+
+レポート:
     * [hello_trema](https://github.com/gotooon/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-gotooon)
+
 * 渡辺研 [@shusaku008](https://github.com/shusaku008)です。
     * [hello_trema](https://github.com/shusaku008/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-shusaku008)
