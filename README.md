@@ -119,9 +119,9 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * 村田研の [@mkfsn](https://github.com/mkfsn)です。よろしくお願いします。
 
 レポート：
-    * [hello_trema](https://github.com/mkfsn/hello_trema)
-    * [cbench](https://github.com/handai-trema/cbench-mkfsn)
-    * [learning_switch](https://github.com/handai-trema/learning_switch-mkfsn)
+  * [hello_trema](https://github.com/mkfsn/hello_trema)
+  * [cbench](https://github.com/handai-trema/cbench-mkfsn)
+  * [learning_switch](https://github.com/handai-trema/learning_switch-mkfsn)
 
 ----
 
