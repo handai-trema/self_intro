@@ -113,9 +113,18 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * 渡辺研の[@Seitaro-Sugihara](https://github.com/Seitaro-Sugihara) です。よろしくお願いします。
     * [hello_trema](https:/github.com/Seitaro-Sugihara/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-Seitaro-Sugihara)
+
+----
+
 * 村田研の [@mkfsn](https://github.com/mkfsn)です。よろしくお願いします。
+
+レポート：
     * [hello_trema](https://github.com/mkfsn/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-mkfsn)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-mkfsn)
+
+----
+
 * 松岡研の [@pirororo0217](https://github.com/pirororo0217)です。よろしくお願いします。
     * [hello_trema](https:/github.com/pirororo0217/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-pirororo0217)
