@@ -29,6 +29,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
     * [hello_trema](https://github.com/fbkclanna/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-fbkclanna)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-fbkclanna)
 
 ----
 
