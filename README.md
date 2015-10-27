@@ -45,9 +45,10 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
     * [hello_trema](https://github.com/exp038/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-exp038)
-* 東野研究室の[@s-sigaki](https://github.com/s-sigaki)です。私の自己紹介消したやつ絶許
+* 東野研究室の[@s-sigaki](https://github.com/s-sigaki)です。ミスって作業ディレクトリ吹っ飛んだけど気にしない・・・
     * [hello_trema](https://github.com/s-sigaki/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-s-sigaki)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-s-sigaki)
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
     * [hello_trema](https://github.com/h-miyakawa/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-h-miyakawa)
