@@ -124,6 +124,9 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https://github.com/AiharaMasahiko/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-AiharaMasahiko)
     * [learning_switch](https://github.com/handai-trema/learning_switch-AiharaMasahiko)
+
+----
+
 * 渡辺研の[@Seitaro-Sugihara](https://github.com/Seitaro-Sugihara) です。よろしくお願いします。
     * [hello_trema](https:/github.com/Seitaro-Sugihara/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-Seitaro-Sugihara)
