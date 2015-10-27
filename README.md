@@ -79,6 +79,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
     * [hello_trema](https://github.com/IoriOtomo/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-IoriOtomo)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-IoriOtomo/)
 * Hi, This is [@t-kitagw](https://github.com/t-kitagw).
     * [hello_trema](https://github.com/t-kitagw/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-t-kitagw)
