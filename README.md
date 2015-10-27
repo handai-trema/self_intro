@@ -130,6 +130,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * 渡辺研の[@Seitaro-Sugihara](https://github.com/Seitaro-Sugihara) です。よろしくお願いします。
     * [hello_trema](https:/github.com/Seitaro-Sugihara/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-Seitaro-Sugihara)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-Seitaro-Sugihara)
 
 ----
 
