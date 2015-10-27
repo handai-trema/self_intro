@@ -53,7 +53,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [cbench](https://github.com/handai-trema/cbench-h-miyakawa)
 ----
 
-村田研の [@k-kawashima](https://github.com/k-kawashima) です。よろしくお願いします。
+* 村田研の [@k-kawashima](https://github.com/k-kawashima) です。よろしくお願いします。
     * [hello_trema](https://github.com/k-kawashima/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-k-kawashima)
     * [learning_switch](https://github.com/handai-trema/learning_switch-k-kawashima)
