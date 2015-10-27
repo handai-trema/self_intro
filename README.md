@@ -110,9 +110,16 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https://github.com/shusaku008/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-shusaku008)
     * [learning_switch](https://github.com/handai-trema/learning_switch-shusaku008)
+
+----
+
 * こんにちは [@a-nakanishi](https://github.com/a-nakanishi) です!これからよろしくおねがいします!
     * [hello_trema](https://github.com/a-nakanishi/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-a-nakanishi)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-a-nakanishi)
+
+----
+
 * 渡辺研の [@AiharaMasahiko](https://github.com/AiharaMasahiko) です。よろしくお願いします。
     * [hello_trema](https://github.com/AiharaMasahiko/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-AiharaMasahiko)
