@@ -83,9 +83,11 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https://github.com/t-kitagw/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-t-kitagw)
     * [learning_switch](https://github.com/handai-trema/learning_switch-t-kitagw)
+
 * I'm [@ToshihikoAramaki](https://github.com/ToshihikoAramaki)
     * [hello_trema](https://github.com/ToshihikoAramaki/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-ToshihikoAramaki)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-ToshihikoAramaki)
 
 ----
 
