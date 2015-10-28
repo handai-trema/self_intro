@@ -81,7 +81,6 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https://github.com/yyynishi/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-yyynishi)
     * [learning_switch](https://github.com/handai-trema/learning_switch-yyynishi) 
-* Yuki Koizumi [@yuki-koizumi](https://github.com/yuki-koizumi)
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
     * [hello_trema](https://github.com/IoriOtomo/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-IoriOtomo)
