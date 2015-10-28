@@ -76,14 +76,18 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [cbench](https://github.com/handai-trema/cbench-sunya-ch)
     * [learning_switch](https://github.com/handai-trema/learning_switch-sunya-ch/)
     * [open_flow_13](https://github.com/handai-trema/learning_switch-sunya-ch/blob/master/report13.md)
+
 ----
+
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
     * [hello_trema](https://github.com/tinygoodcheese/hello_trema) 
     * [cbench](https://github.com/handai-trema/cbench-tinygoodcheese)
     * [learning_switch](https://github.com/handai-trema/learning_switch-tinygoodcheese)
     	*[report 10/21](https://github.com/handai-trema/learning_switch-tinygoodcheese/report.md)
     	*[report 10/28](https://github.com/handai-trema/learning_switch-tinygoodcheese/report_1028.md)
+
 ----
+
 * 長谷川研の西山です。[@yyynishi](https://github.com/yyynishi)
     * [hello_trema](https://github.com/yyynishi/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-yyynishi)
