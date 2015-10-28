@@ -73,6 +73,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https://github.com/s-kojima/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-s-kojima)
     * [learning_switch](https://github.com/handai-trema/learning_switch-s-kojima)
+    * [第4回課題](https://github.com/handai-trema/learning_switch-s-kojima/blob/master/report13.md)
 
 * Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
     * [hello_trema](https://github.com/sunya-ch/hello_trema)
