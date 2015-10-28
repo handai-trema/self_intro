@@ -83,8 +83,8 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https://github.com/tinygoodcheese/hello_trema) 
     * [cbench](https://github.com/handai-trema/cbench-tinygoodcheese)
     * [learning_switch](https://github.com/handai-trema/learning_switch-tinygoodcheese)
-    	*[report 10/21](https://github.com/handai-trema/learning_switch-tinygoodcheese/report.md)
-    	*[report 10/28](https://github.com/handai-trema/learning_switch-tinygoodcheese/report_1028.md)
+    	[report 10/21](https://github.com/handai-trema/learning_switch-tinygoodcheese/blob/master/report.md)
+    	[report 10/28](https://github.com/handai-trema/learning_switch-tinygoodcheese/blob/master/report_1028.md)
 
 ----
 
