@@ -31,7 +31,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https://github.com/fbkclanna/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-fbkclanna)
     * [learning_switch](https://github.com/handai-trema/learning_switch-fbkclanna)
-    * [learning_switch13(report2.md)](https://github.com/handai-trema/learning_switch-fbkclanna)
+    * [learning_switch13/report2.md](https://github.com/handai-trema/learning_switch-fbkclanna)
 ----
 
 こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
