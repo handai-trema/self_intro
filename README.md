@@ -23,7 +23,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * [hello_trema](https://github.com/yamatchan/hello_trema)
 * [cbench](https://github.com/handai-trema/cbench-yamatchan)
 * [learning_switch](https://github.com/handai-trema/learning_switch-yamatchan)
-* [第4回目課題](https://github.com/handai-trema/learning_switch-yamatchan/blob/master/report2.md)
+* [第4回目課題](https://github.com/handai-trema/learning_switch-yamatchan/blob/master/report1028.md)
 
 ----
 
