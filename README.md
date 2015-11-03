@@ -132,6 +132,8 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * [hello_trema](https://github.com/gotooon/hello_trema)
 * [cbench](https://github.com/handai-trema/cbench-gotooon)
 * [learning_switch](https://github.com/handai-trema/learning_switch-gotooon)
+  *[multi_learning_switch report](https://github.com/handai-trema/learning_switch-gotooon/blob/master/report.md)
+  *[learning_switch13 report](https://github.com/handai-trema/learning_switch-gotooon/blob/master/report2.md)
 
 ----
 
