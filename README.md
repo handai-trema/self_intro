@@ -114,6 +114,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https://github.com/ToshihikoAramaki/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-ToshihikoAramaki)
     * [learning_switch](https://github.com/handai-trema/learning_switch-ToshihikoAramaki)
+    * [learning_switch13](https://github.com/handai-trema/learning_switch-ToshihikoAramaki/blob/master/report-13.md)
 
 ----
 
