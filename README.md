@@ -14,7 +14,10 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 ## 受講者一覧
 
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
-
+    * [hello_trema](https://github.com/mahiro00/hello_trema)
+    * [cbench](https://github.com/handai-trema/cbench-mahiro00)
+    * [learning_switch](https://github.com/handai-trema/learning_switch-mahiro00)
+    * [learning_switch13/report2.md](https://github.com/handai-trema/learning_switch-mahiro00)
 ----
 
 こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
