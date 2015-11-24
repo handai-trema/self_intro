@@ -199,7 +199,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 
 ## チーム課題提出場所
 ### team-alpha(小島、河島、北川、後藤)
-*[simple-router](https://github.com/handai-trema/simple_router-team_alpha/blob/master/report.md)
+* [simple-router](https://github.com/handai-trema/simple_router-team_alpha/blob/master/report.md)
 
 
  
