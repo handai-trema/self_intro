@@ -176,6 +176,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [cbench](https://github.com/handai-trema/cbench-Seitaro-Sugihara)
     * [learning_switch](https://github.com/handai-trema/learning_switch-Seitaro-Sugihara)
     * [learning_switch13](https://github.com/handai-trema/learning_switch-Seitaro-Sugihara/blob/master/report_learning_switch13.md)
+
 ----
 
 村田研の [@mkfsn](https://github.com/mkfsn)です。よろしくお願いします。
@@ -193,5 +194,12 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [hello_trema](https:/github.com/pirororo0217/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-pirororo0217)	
     * [learning_switch](https://github.com/handai-trema/learning_switch-pirororo0217) 
+
+-----
+
+## チーム課題提出場所
+### team-alpha(小島、河島、北川、後藤)
+*[simple-router](https://github.com/handai-trema/simple_router-team_alpha/blob/master/report.md)
+
 
  
