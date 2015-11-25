@@ -218,5 +218,5 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * [simple-router](https://github.com/handai-trema/simple_router-ensyuu2-team5/blob/master/report.md)
 
 ### team 6
-* [simple-router](https://github.com/handai-trema/simple_router-team6/blob/master/report.md)
+* [simple-router](https://github.com/handai-trema/simple_router-team6/blob/master/report.pdf)
 
