@@ -192,7 +192,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [cbench](https://github.com/handai-trema/cbench-a-nakanishi)
     * [learning_switch](https://github.com/handai-trema/learning_switch-a-nakanishi)
     * [learning_switch13](https://github.com/handai-trema/learning_switch-a-nakanishi/blob/master/report-13.md)
-    * [topology](https://github.com/handai-trema/topology-a-nakanishi/blob/master/report.md)
+    * [topology](https://github.com/handai-trema/topology-a-nakanishi/report.md)
 
 ----
 
