@@ -189,7 +189,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
     * [learning_switch](https://github.com/handai-trema/learning_switch-AiharaMasahiko)
         * [第3回レポート 10/21](https://github.com/handai-trema/learning_switch-AiharaMasahiko/blob/master/report.txt)
         * [第4回レポート 10/28](https://github.com/handai-trema/learning_switch-AiharaMasahiko/blob/master/report2.txt)
-    * [topology](https://github.com/handai-trema/topology-AiharaMasahikoblob/master/report.md)
+    * [topology](https://github.com/handai-trema/topology-AiharaMasahiko/blob/master/report.md)
 
 ----
 
