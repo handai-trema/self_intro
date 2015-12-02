@@ -235,7 +235,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 
 -----
 
-## チーム課題提出場所
+## グループ課題(simple_router)
 ### team-alpha(小島、河島、北川、後藤)
 * [simple-router](https://github.com/handai-trema/simple_router-team_alpha/blob/master/report.md)
 
@@ -254,3 +254,6 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 ### team 6
 * [simple-router](https://github.com/handai-trema/simple_router-team6/blob/master/report.pdf)
 
+## グループ課題(routing_switch)
+### east
+* [routing_switch](https://github.com/handai-trema/routing_switch-east/blob/master/report.md)
