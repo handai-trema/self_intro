@@ -263,4 +263,4 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 * [routing_switch](https://github.com/handai-trema/routing_switch-matsuoka/blob/master/report.md)
 
 ### murata
-* [routing_switch](https://github.com/handai-trema/routing_switch-team-murata/report.md)
+* [routing_switch](https://github.com/handai-trema/routing_switch-team-murata/blog/master/report.md)
