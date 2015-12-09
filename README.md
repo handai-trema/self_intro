@@ -268,3 +268,6 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 ### mshk
 * [routing_switch](https://github.com/handai-trema/routing_switch-team-mshk/blob/master/report.md)
 
+### hase
+* [routing_switch](https://github.com/handai-trema/routing_switch-team-haselab/blob/master/report.md)
+
