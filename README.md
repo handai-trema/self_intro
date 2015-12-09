@@ -258,6 +258,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 
 ### east
 * [routing_switch](https://github.com/handai-trema/routing_switch-east/blob/master/report.md)
+* [sliceable_switch](https://github.com/handai-trema/sliceable_switch-east/blob/master/report.md)
 
 ### matsuoka
 * [routing_switch](https://github.com/handai-trema/routing_switch-matsuoka/blob/master/report.md)
