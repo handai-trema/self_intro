@@ -274,4 +274,5 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 
 ### hase
 * [routing_switch](https://github.com/handai-trema/routing_switch-team-haselab/blob/master/report.md)
+* [sliceable_switch](https://github.com/handai-trema/sliceable_switch-team-haselab/blob/master/report.md)
 
