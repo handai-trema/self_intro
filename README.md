@@ -229,7 +229,7 @@ Trema を開発している [@yasuhito](https://github.com/yasuhito) です。�
 ----
 
 * 松岡研の [@pirororo0217](https://github.com/pirororo0217)です。よろしくお願いします。
-    * [hello_trema](https:/github.com/pirororo0217/hello_trema)
+    * [hello_trema](https://github.com/pirororo0217/hello_trema)
     * [cbench](https://github.com/handai-trema/cbench-pirororo0217)	
     * [learning_switch](https://github.com/handai-trema/learning_switch-pirororo0217) 
 
