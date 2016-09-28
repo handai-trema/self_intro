@@ -21,7 +21,7 @@
 
 ## 受講者一覧
 
-* [@tatsuya-otoshi](https://github.com/tatsuya-otoshi/whoami) (自己紹介の例)
+* [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
 
 
 ## 自己紹介リポジトリの作り方
