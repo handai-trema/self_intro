@@ -4,6 +4,15 @@
 * _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
 
 
+## 自己紹介リポジトリの作り方
+
+1. リポジトリの作成。[こちらのリンク](https://classroom.github.com/assignment-invitations/83861ac9463b4c1abdba7523ae4aa2d1) をクリックすると、自動的に handai-trema/self-intro-[ユーザ名] というリポジトリが作成できます。
+
+2. できたリポジトリに README.md を作り、自己紹介を書いてコミットする
+
+3. このファイルの「受講者一覧」にリポジトリへのリンクを張る
+
+
 ## 書き方の例
 
 この授業では、個人または数人のグループで課題に取り組んでもらうことになります。
@@ -22,12 +31,3 @@
 ## 受講者一覧
 
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
-
-
-## 自己紹介リポジトリの作り方
-
-1. リポジトリの作成。[こちらのリンク](https://classroom.github.com/assignment-invitations/83861ac9463b4c1abdba7523ae4aa2d1) をクリックすると、自動的に handai-trema/self-intro-[ユーザ名] というリポジトリが作成できます。
-
-2. できたリポジトリに README.md を作り、自己紹介を書いてコミットする
-
-3. このファイルの「受講者一覧」にリポジトリへのリンクを張る
