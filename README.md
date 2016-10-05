@@ -31,3 +31,4 @@
 ## 受講者一覧
 
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
+* test
