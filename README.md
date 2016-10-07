@@ -32,3 +32,4 @@
 
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
 * [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito) (自己紹介の例)
+* [@yuki-koizumi](https://github.com/handai-trema/self-intro-yuki-koizumi)（自己紹介の例）
