@@ -36,3 +36,4 @@
 * [@k-tsuji](https://github.com/handai-trema/self-intro-k-tsuji)（辻の自己紹介）
 * [@Tatsu-tanaka](https://github.com/handai-trema/self-intro-Tatsu-Tanaka) (田中達也の自己紹介)
 * [@t-mangoe](https://github.com/handai-trema/self-intro-t-mangoe) (満越貴志の自己紹介)
+* [@yosuke-akishita](https://github.com/handai-trema/self-intro-yosuke-akishita) (秋下耀介の自己紹介)
