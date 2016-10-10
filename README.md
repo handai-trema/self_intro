@@ -32,6 +32,15 @@
 
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
 * [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito) (自己紹介の例)
-* [@Kazuki-Ginnan](https://github.com/handai-trema/self-intro-Kazuki-Ginnan)
+<<<<<<< HEAD
 
 
+
+=======
+* [@yuki-koizumi](https://github.com/handai-trema/self-intro-yuki-koizumi)（自己紹介の例）
+* [@k-tsuji](https://github.com/handai-trema/self-intro-k-tsuji)（辻の自己紹介）
+* [@Tatsu-tanaka](https://github.com/handai-trema/self-intro-Tatsu-Tanaka) (田中達也の自己紹介)
+* [@t-mangoe](https://github.com/handai-trema/self-intro-t-mangoe) (満越貴志の自己紹介)
+* [@yosuke-akishita](https://github.com/handai-trema/self-intro-yosuke-akishita) (秋下耀介の自己紹介)
+* [@Kazuki-Ginnan](https://github.com/handai-trema/self-intro-Kazuki-Ginnan)(銀杏一輝の自己紹介)
+>>>>>>> 01416783bf054ca624d0c1221bbfc93616e0c0a1
