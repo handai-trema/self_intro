@@ -42,4 +42,5 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/self-intro-Kazuki-Ginnan)(銀杏一輝)
 * [@trema_nobu](https://github.com/handai-trema/self-intro-trema-nobu)(信家)
 * [@ksatake](https://github.com/handai-trema/self-intro-ksatake)(佐竹)
+* [@tomok0823](https://github.com/handai-trema/self-intro-tomok0823)(今井 友揮)
 
