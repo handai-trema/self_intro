@@ -57,3 +57,5 @@
 * [@tomok0823](https://github.com/handai-trema/self-intro-tomok0823)(今井 友揮)
 * [@Takuya-Saitoh](https://github.com/handai-trema/self-intro-Takuya-Saitoh)(齋藤卓哉)
 * [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
+* [@Nagatomi-Ken](https://github.com/handai-trema/self-intro-Nagatomi-Ken)(永富賢)
+
