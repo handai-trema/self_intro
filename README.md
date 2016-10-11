@@ -52,4 +52,8 @@
 * [@r-narimoto](https://github.com/handai-trema/self-intro-r-narimoto)(成元 
 椋祐)
 * [@KokiSakata](https://github.com/handai-trema/self-intro-KokiSakata)(坂田航樹)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/self-intro-Shu-NISHIKORI)(錦織秀)
+
+
+
 
