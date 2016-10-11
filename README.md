@@ -44,4 +44,4 @@
 * [@ksatake](https://github.com/handai-trema/self-intro-ksatake)(佐竹)
 * [@shuya-abe](https://github.com/handai-trema/self-intro-shuya-abe)(阿部)
 * [@tomok0823](https://github.com/handai-trema/self-intro-tomok0823)(今井 友揮)
-
+* [@Takuya-Saitoh](https://github.com/handai-trema/self-intro-Takuya-Saitoh)(齋藤卓哉)
