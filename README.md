@@ -55,5 +55,5 @@
 * [@Shu-NISHIKORI](https://github.com/handai-trema/self-intro-Shu-NISHIKORI)(錦織秀)
 * [@nsyuyu](https://github.com/handai-trema/self-intro-nsyuyu)(西村友佑)
 * [@yusuke-hara](https://github.com/handai-trema/self-intro-yusuke-hara)(原佑輔)
-
+* [@k-sakamoto3](https://github.com/handai-trema/self-intro-k-sakamoto3)(坂本昂輝)
 
