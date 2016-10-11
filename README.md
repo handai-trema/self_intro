@@ -47,7 +47,7 @@
 * [@Nagatomi-Ken](https://github.com/handai-trema/self-intro-Nagatomi-Ken)(永富賢)
 * [@JensOetjen](https://github.com/handai-trema/self-intro-Jens-Oetjen)(Jens Oetjen)
 * [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)(村上 遼)
-* [@d-miura](https://github.com/handai-trema/self-intro-d-miura)(三浦太樹）
-
-
+* [@d-miura](https://github.com/handai-trema/self-intro-d-miura)(三浦太樹)
+* [@r-narimoto](https://github.com/handai-trema/self-intro-r-narimoto)(成元 
+椋祐)
 
