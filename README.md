@@ -46,6 +46,6 @@
 * [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
 * [@JensOetjen](https://github.com/handai-trema/self-intro-Jens-Oetjen)(Jens Oetjen)
 * [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)(村上 遼)
-* [@d-miura](https://github.com/handai-trema/self-intro-Ryo-d-miura)(三浦太樹)
+* [@d-miura](https://github.com/handai-trema/self-intro-d-miura)(三浦太樹)
 
 
