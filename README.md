@@ -27,25 +27,12 @@
   * この授業に期待すること
   * 授業の内容をどのように活かしたいか等
 
-
-## 受講者一覧
-
-* [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
-* [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito) (自己紹介の例)
-=======
-=======
-  * この授業に期待すること
-  * 授業の内容をどのように活かしたいか等
-
-
 ## 自己紹介の例
-=======
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi)
 * [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito)
 * [@yuki-koizumi](https://github.com/handai-trema/self-intro-yuki-koizumi)
 
 ## 受講者
-
 * [@k-tsuji](https://github.com/handai-trema/self-intro-k-tsuji)（辻）
 * [@Tatsu-tanaka](https://github.com/handai-trema/self-intro-Tatsu-Tanaka) (田中達也)
 * [@t-mangoe](https://github.com/handai-trema/self-intro-t-mangoe) (満越貴志)
@@ -59,6 +46,8 @@
 * [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
 * [@Nagatomi-Ken](https://github.com/handai-trema/self-intro-Nagatomi-Ken)(永富賢)
 * [@JensOetjen](https://github.com/handai-trema/self-intro-Jens-Oetjen)(Jens Oetjen)
-* [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)
-=======
->>>>>>> a7cc3b9f12adf79b0b66dfb2dddc58038e493b6d
+* [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)(村上 遼)
+* [@d-miura](https://github.com/handai-trema/self-intro-d-miura)(三浦太樹）
+
+
+
