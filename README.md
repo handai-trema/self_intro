@@ -24,7 +24,6 @@
   * 出身
   * 趣味
 * 授業への意気込み
-<<<<<<< HEAD
   * この授業に期待すること
   * 授業の内容をどのように活かしたいか等
 
@@ -33,10 +32,10 @@
 
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
 * [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito) (自己紹介の例)
-<<<<<<< HEAD
 =======
 =======
-  * この授業に期待すること  * 授業の内容をどのように活かしたいか等
+  * この授業に期待すること
+  * 授業の内容をどのように活かしたいか等
 
 
 ## 自己紹介の例
@@ -60,4 +59,4 @@
 * [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
 * [@JensOetjen](https://github.com/handai-trema/self-intro-Jens-Oetjen)(Jens Oetjen)
 * [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)
->>>>>>> d86e3a06628c193d33b261a0e328de40f6a90cd8
+=======
