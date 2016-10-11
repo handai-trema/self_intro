@@ -54,3 +54,6 @@
 * [@KokiSakata](https://github.com/handai-trema/self-intro-KokiSakata)(坂田航樹)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/self-intro-Shu-NISHIKORI)(錦織秀)
 * [@nsyuyu](https://github.com/handai-trema/self-intro-nsyuyu)(西村友佑)
+* [@yusuke-hara](https://github.com/handai-trema/self-intro-yusuke-hara)(原佑輔)
+
+
