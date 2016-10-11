@@ -28,11 +28,6 @@
 
 
 ## 自己紹介の例
-
-<<<<<<< HEAD
-* [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
-* [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito) (自己紹介の例)
-
 =======
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi)
 * [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito)
@@ -48,5 +43,3 @@
 * [@trema_nobu](https://github.com/handai-trema/self-intro-trema-nobu)(信家)
 * [@ksatake](https://github.com/handai-trema/self-intro-ksatake)(佐竹)
 
-
->>>>>>> 7eb67d8a5dcd13f33ed12002cfecdd98745de32e
