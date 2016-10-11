@@ -24,6 +24,7 @@
   * 出身
   * 趣味
 * 授業への意気込み
+<<<<<<< HEAD
   * この授業に期待すること
   * 授業の内容をどのように活かしたいか等
 
@@ -33,3 +34,26 @@
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
 * [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito) (自己紹介の例)
 [@t-kito](https://github.com/handai-trema/self-intro-t-kito)
+=======
+  * この授業に期待すること  * 授業の内容をどのように活かしたいか等
+
+
+## 自己紹介の例
+=======
+* [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi)
+* [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito)
+* [@yuki-koizumi](https://github.com/handai-trema/self-intro-yuki-koizumi)
+
+## 受講者
+
+* [@k-tsuji](https://github.com/handai-trema/self-intro-k-tsuji)（辻）
+* [@Tatsu-tanaka](https://github.com/handai-trema/self-intro-Tatsu-Tanaka) (田中達也)
+* [@t-mangoe](https://github.com/handai-trema/self-intro-t-mangoe) (満越貴志)
+* [@yosuke-akishita](https://github.com/handai-trema/self-intro-yosuke-akishita) (秋下耀介)
+* [@Kazuki-Ginnan](https://github.com/handai-trema/self-intro-Kazuki-Ginnan)(銀杏一輝)
+* [@trema_nobu](https://github.com/handai-trema/self-intro-trema-nobu)(信家)
+* [@ksatake](https://github.com/handai-trema/self-intro-ksatake)(佐竹)
+* [@shuya-abe](https://github.com/handai-trema/self-intro-shuya-abe)(阿部)
+* [@tomok0823](https://github.com/handai-trema/self-intro-tomok0823)(今井 友揮)
+* [@Takuya-Saitoh](https://github.com/handai-trema/self-intro-Takuya-Saitoh)(齋藤卓哉)
+* [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
