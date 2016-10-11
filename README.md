@@ -27,19 +27,7 @@
   * この授業に期待すること
   * 授業の内容をどのように活かしたいか等
 
-
-## 受講者一覧
-
-* [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
-* [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito) (自己紹介の例)
-=======
-=======
-  * この授業に期待すること
-  * 授業の内容をどのように活かしたいか等
-
-
 ## 自己紹介の例
-=======
 * [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi)
 * [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito)
 * [@yuki-koizumi](https://github.com/handai-trema/self-intro-yuki-koizumi)
@@ -58,5 +46,6 @@
 * [@Takuya-Saitoh](https://github.com/handai-trema/self-intro-Takuya-Saitoh)(齋藤卓哉)
 * [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
 * [@JensOetjen](https://github.com/handai-trema/self-intro-Jens-Oetjen)(Jens Oetjen)
-* [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)
-=======
+* [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)()
+* [@d-miura](https://github.com/handai-trema/self-intro-Ryo-d-miura)(三浦太樹)
+
