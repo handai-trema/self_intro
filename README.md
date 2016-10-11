@@ -4,6 +4,15 @@
 * _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
 
 
+## 自己紹介リポジトリの作り方
+
+1. リポジトリの作成。[こちらのリンク](https://classroom.github.com/assignment-invitations/83861ac9463b4c1abdba7523ae4aa2d1) をクリックすると、自動的に handai-trema/self-intro-[ユーザ名] というリポジトリが作成できます。
+
+2. できたリポジトリに README.md を作り、自己紹介を書いてコミットする
+
+3. このファイルの「受講者一覧」にリポジトリへのリンクを張る
+
+
 ## 書き方の例
 
 この授業では、個人または数人のグループで課題に取り組んでもらうことになります。
@@ -18,17 +27,29 @@
   * この授業に期待すること
   * 授業の内容をどのように活かしたいか等
 
+## 自己紹介の例
+* [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi)
+* [@yasuhito](https://github.com/handai-trema/self-intro-yasuhito)
+* [@yuki-koizumi](https://github.com/handai-trema/self-intro-yuki-koizumi)
 
-## 受講者一覧
-
-* [@tatsuya-otoshi](https://github.com/handai-trema/self-intro-tatsuya-otoshi) (自己紹介の例)
+## 受講者
+* [@k-tsuji](https://github.com/handai-trema/self-intro-k-tsuji)（辻）
+* [@Tatsu-tanaka](https://github.com/handai-trema/self-intro-Tatsu-Tanaka) (田中達也)
+* [@t-mangoe](https://github.com/handai-trema/self-intro-t-mangoe) (満越貴志)
+* [@yosuke-akishita](https://github.com/handai-trema/self-intro-yosuke-akishita) (秋下耀介)
+* [@Kazuki-Ginnan](https://github.com/handai-trema/self-intro-Kazuki-Ginnan)(銀杏一輝)
+* [@trema_nobu](https://github.com/handai-trema/self-intro-trema-nobu)(信家)
+* [@ksatake](https://github.com/handai-trema/self-intro-ksatake)(佐竹)
+* [@shuya-abe](https://github.com/handai-trema/self-intro-shuya-abe)(阿部)
+* [@tomok0823](https://github.com/handai-trema/self-intro-tomok0823)(今井 友揮)
+* [@Takuya-Saitoh](https://github.com/handai-trema/self-intro-Takuya-Saitoh)(齋藤卓哉)
+* [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
+* [@Nagatomi-Ken](https://github.com/handai-trema/self-intro-Nagatomi-Ken)(永富賢)
+* [@JensOetjen](https://github.com/handai-trema/self-intro-Jens-Oetjen)(Jens Oetjen)
+* [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)(村上 遼)
+* [@d-miura](https://github.com/handai-trema/self-intro-d-miura)(三浦太樹)
 * [@yamatchan](https://github.com/handai-trema/self-intro-yamatchan)
+* [@r-narimoto](https://github.com/handai-trema/self-intro-r-narimoto)(成元 
+椋祐)
+* [@KokiSakata](https://github.com/handai-trema/self-intro-KokiSakata)(坂田航樹)
 
-
-## 自己紹介リポジトリの作り方
-
-1. リポジトリの作成。[こちらのリンク](https://classroom.github.com/assignment-invitations/83861ac9463b4c1abdba7523ae4aa2d1) をクリックすると、自動的に handai-trema/self-intro-[ユーザ名] というリポジトリが作成できます。
-
-2. できたリポジトリに README.md を作り、自己紹介を書いてコミットする
-
-3. このファイルの「受講者一覧」にリポジトリへのリンクを張る
