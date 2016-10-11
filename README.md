@@ -33,7 +33,6 @@
 * [@yuki-koizumi](https://github.com/handai-trema/self-intro-yuki-koizumi)
 
 ## 受講者
-
 * [@k-tsuji](https://github.com/handai-trema/self-intro-k-tsuji)（辻）
 * [@Tatsu-tanaka](https://github.com/handai-trema/self-intro-Tatsu-Tanaka) (田中達也)
 * [@t-mangoe](https://github.com/handai-trema/self-intro-t-mangoe) (満越貴志)
@@ -47,5 +46,7 @@
 * [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
 * [@JensOetjen](https://github.com/handai-trema/self-intro-Jens-Oetjen)(Jens Oetjen)
 * [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)()
+* [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)(村上 遼)
 * [@d-miura](https://github.com/handai-trema/self-intro-Ryo-d-miura)(三浦太樹)
+
 
