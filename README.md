@@ -49,7 +49,7 @@
 * [@ryo-murakami](https://github.com/handai-trema/self-intro-Ryo-Murakami)(村上 遼)
 * [@d-miura](https://github.com/handai-trema/self-intro-d-miura)(三浦太樹)
 * [@yamatchan](https://github.com/handai-trema/self-intro-yamatchan)
-* [@r-narimoto](https://github.com/handai-trema/self-intro-r-narimoto)(成元 
+* [@r-narimoto](https://github.com/handai-trema/self-intro-r-narimoto)(成元
 椋祐)
 * [@KokiSakata](https://github.com/handai-trema/self-intro-KokiSakata)(坂田航樹)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/self-intro-Shu-NISHIKORI)(錦織秀)
@@ -57,3 +57,10 @@
 * [@yusuke-hara](https://github.com/handai-trema/self-intro-yusuke-hara)(原佑輔)
 * [@k-sakamoto3](https://github.com/handai-trema/self-intro-k-sakamoto3)(坂本昂輝)
 
+
+## 課題: スイッチの切断イベント
+
+* [@yasuhito](https://www.google.com/)(ダミーです)
+
+
+## 課題: Hello Trema
