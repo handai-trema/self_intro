@@ -61,6 +61,6 @@
 ## 課題: スイッチの切断イベント
 
 * [@yasuhito](https://www.google.com/)(ダミーです)
-
+* [@k-sakamoto3](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-2.md)(坂本昂輝)
 
 ## 課題: Hello Trema
