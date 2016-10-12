@@ -60,7 +60,6 @@
 
 ## 課題: スイッチの切断イベント
 
-* [@yasuhito](https://www.google.com/)(ダミーです)
 * [@k-sakamoto3](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-2.md)(坂本昂輝)
 * [@r-narimoto](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report1.md)(成元 椋祐)
 * [@k-tsuji](https://github.com/handai-trema/hello-trema-k-tsuji/blob/master/report_bye_switch.md)(辻　健太)
