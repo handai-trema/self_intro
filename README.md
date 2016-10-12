@@ -66,6 +66,7 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/report_assignment_bye_switch.md) (田中 達也)
 * [@Takuya-Saitoh](https://github.com/handai-trema/hello-trema-Takuya-Saitoh/blob/master/report.md)(齋藤 卓哉)
 * [@yusuke-hara](https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05_1.md)(原 佑輔)
+* [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report.md)(銀杏一輝)
 
 ## 課題: Hello Trema
 
@@ -75,3 +76,4 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/report_assignment_hello_trema.md) (田中 達也)
 * [@Takuya-Saitoh](https://github.com/handai-trema/hello-trema-Takuya-Saitoh/blob/master/report_hello_trema.md)(齋藤 卓哉)
 * [@yusuke-hara](https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05_2.md)(原 佑輔)
+* [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report2.md)(銀杏一輝)
