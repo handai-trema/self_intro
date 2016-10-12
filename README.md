@@ -63,8 +63,10 @@
 * [@yasuhito](https://www.google.com/)(ダミーです)
 * [@k-sakamoto3](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-2.md)(坂本昂輝)
 * [@r-narimoto](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report1.md)(成元 椋祐)
+* [@KokiSakata](https://github.com/handai-trema/hello-trema-KokiSakata/blob/master/report20161005.md)(坂田航樹)
 
 ## 課題: Hello Trema
 
 * [@k-sakamoto3](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-3.md)(坂本昂輝)
 * [@r-narimoto](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report2.md)(成元 椋祐)
+* [@KokiSakata](https://github.com/handai-trema/hello-trema-KokiSakata/blob/master/report20161005.md)(坂田航樹)
