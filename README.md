@@ -34,7 +34,7 @@
 
 ## 受講者
 * [@k-tsuji](https://github.com/handai-trema/self-intro-k-tsuji)（辻　健太）
-* [@Tatsu-tanaka](https://github.com/handai-trema/self-intro-Tatsu-Tanaka) (田中達也)
+* [@Tatsu-Tanaka](https://github.com/handai-trema/self-intro-Tatsu-Tanaka) (田中達也)
 * [@t-mangoe](https://github.com/handai-trema/self-intro-t-mangoe) (満越貴志)
 * [@yosuke-akishita](https://github.com/handai-trema/self-intro-yosuke-akishita) (秋下耀介)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/self-intro-Kazuki-Ginnan)(銀杏一輝)
@@ -64,9 +64,11 @@
 * [@k-sakamoto3](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-2.md)(坂本昂輝)
 * [@r-narimoto](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report1.md)(成元 椋祐)
 * [@k-tsuji](https://github.com/handai-trema/hello-trema-k-tsuji/blob/master/report_bye_switch.md)(辻　健太)
+* [@Tatsu-Tanaka](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/report_assignment_bye_switch.md) (田中 達也)
 
 ## 課題: Hello Trema
 
 * [@k-sakamoto3](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-3.md)(坂本昂輝)
 * [@r-narimoto](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report2.md)(成元 椋祐)
 * [@k-tsuji](https://github.com/handai-trema/hello-trema-k-tsuji/blob/master/report_hello_trema.md)(辻　健太)
+* [@Tatsu-Tanaka](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/report_assignment_hello_trema.md) (田中 達也)
