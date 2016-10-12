@@ -64,3 +64,5 @@
 * [@k-sakamoto3](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-2.md)(坂本昂輝)
 
 ## 課題: Hello Trema
+
+* [@k-sakamoto3](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-3.md)(坂本昂輝)
