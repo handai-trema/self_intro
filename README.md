@@ -67,6 +67,7 @@
 * [@Takuya-Saitoh](https://github.com/handai-trema/hello-trema-Takuya-Saitoh/blob/master/report.md)(齋藤 卓哉)
 * [@yusuke-hara](https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05_1.md)(原 佑輔)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report.md)(銀杏一輝)
+* [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-2.pdf) (秋下耀介)
 
 ## 課題: Hello Trema
 
@@ -77,3 +78,4 @@
 * [@Takuya-Saitoh](https://github.com/handai-trema/hello-trema-Takuya-Saitoh/blob/master/report_hello_trema.md)(齋藤 卓哉)
 * [@yusuke-hara](https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05_2.md)(原 佑輔)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report2.md)(銀杏一輝)
+* [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/develop/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-3.pdf) (秋下耀介)
