@@ -89,4 +89,4 @@
 
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
-* [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/master/report_leacning-switch.md) (辻　健太)
+* [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md) (辻　健太)
