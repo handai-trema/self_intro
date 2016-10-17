@@ -79,3 +79,14 @@
 * [@yusuke-hara](https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05_2.md)(原 佑輔)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report2.md)(銀杏一輝)
 * [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/develop/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-3.pdf) (秋下耀介)
+
+
+
+## 課題: Cbench のボトルネック調査
+* [@k-tsuji](https://github.com/handai-trema/cbench-k-tsuji/blob/master/report_cbench.md) (辻　健太)
+
+
+
+
+## 課題: 複数スイッチ対応版 ラーニングスイッチ
+* [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/master/report_leacning-switch.md) (辻　健太)
