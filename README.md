@@ -72,6 +72,7 @@
 * [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/report/Report1_2.md)(阿部修也)
 * [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-2.md)(木藤嵩人)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/blob/master/reports/20161005/report.md)(錦織 秀)
 
 ## 課題: Hello Trema
 
@@ -87,6 +88,7 @@
 * [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/report/Report1_3.md)(阿部修也)
 * [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-3.md)(木藤嵩人)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/blob/master/reports/20161005/report2.md)(錦織 秀)
 
 ## 課題: Cbench のボトルネック調査
 * [@k-tsuji](https://github.com/handai-trema/cbench-k-tsuji/blob/master/report_cbench.md) (辻　健太)
