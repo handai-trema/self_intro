@@ -112,6 +112,7 @@
 * [@trema-nobu](https://github.com/handai-trema/cbench-trema-nobu/blob/master/report.md)(信家)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/cbench-Kazuki-Ginnan/blob/develop/profile_report.md)(銀杏一輝)
 * [@d-miura](https://github.com/handai-trema/cbench-d-miura/blob/master/Report1012.md)(三浦太樹)
+* [@yosuke-akishita](https://github.com/handai-trema/cbench-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-cbench%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96.pdf)(秋下耀介)
 
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
@@ -128,3 +129,4 @@
 * [@trema-nobu](https://github.com/handai-trema/learning-switch-trema-nobu/blob/master/report.md)(信家)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/learning-switch-Kazuki-Ginnan/blob/develop2/multibridge_report.md)(銀杏一輝)
 * [@d-miura](https://github.com/handai-trema/learning-switch-d-miura/blob/master/report1012-2.md)(三浦太樹)
+* [@yosuke-akishita](https://github.com/handai-trema/learning-switch-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-%E8%A4%87%E6%95%B0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C.pdf)(秋下耀介)
