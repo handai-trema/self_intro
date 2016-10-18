@@ -133,6 +133,9 @@
 * [@yosuke-akishita](https://github.com/handai-trema/learning-switch-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-%E8%A4%87%E6%95%B0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C.pdf)(秋下耀介)
 * [@tomok0823](https://github.com/handai-trema/learning-switch-tomok0823/blob/master/report.md)(今井友揮)
 
+## 課題: パッチパネルの機能拡張
+* [@yamatchan](https://github.com/handai-trema/patch-panel-yamatchan/blob/master/report.md)
+
 ## 課題: OpenFlow 1.3版 マルチプルテーブルを読む
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report-1.3.md)
 
