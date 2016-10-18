@@ -108,7 +108,7 @@
 * [@Shu-NISHIKORI](https://github.com/handai-trema/cbench-Shu-NISHIKORI/blob/master/reports/20161012/report.md)(錦織 秀)
 * [@Nagatomi-Ken](https://github.com/handai-trema/cbench-Nagatomi-Ken/blob/master/report2-1.md)(永富賢)
 * [@trema-nobu](https://github.com/handai-trema/cbench-trema-nobu/blob/master/report.md)(信家)
-
+* [@Kazuki-Ginnan](https://github.com/handai-trema/cbench-Kazuki-Ginnan/blob/develop/profile_report.md)(銀杏一輝)
 
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
@@ -123,6 +123,6 @@
 *  [@yusuke-hara](https://github.com/handai-trema/learning-switch-yusuke-hara/blob/master/report.md)(原佑輔)
 * [@Nagatomi-Ken](https://github.com/handai-trema/learning-switch-Nagatomi-Ken/blob/master/report2-2.md)(永富賢)
 * [@trema-nobu](https://github.com/handai-trema/learning-switch-trema-nobu/blob/master/report.md)(信家)
-
+* [@Kazuki-Ginnan](https://github.com/handai-trema/learning-switch-Kazuki-Ginnan/blob/develop2/multibridge_report.md)(銀杏一輝)
 
 
