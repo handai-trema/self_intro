@@ -40,7 +40,7 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/self-intro-Kazuki-Ginnan)(銀杏一輝)
 * [@trema_nobu](https://github.com/handai-trema/self-intro-trema-nobu)(信家)
 * [@ksatake](https://github.com/handai-trema/self-intro-ksatake)(佐竹)
-* [@shuya-abe](https://github.com/handai-trema/self-intro-shuya-abe)(阿部)
+* [@shuya-abe](https://github.com/handai-trema/self-intro-shuya-abe)(阿部修也)
 * [@tomok0823](https://github.com/handai-trema/self-intro-tomok0823)(今井 友揮)
 * [@Takuya-Saitoh](https://github.com/handai-trema/self-intro-Takuya-Saitoh)(齋藤卓哉)
 * [@t-kito](https://github.com/handai-trema/self-intro-t-kito)(木藤嵩人)
@@ -69,6 +69,15 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report.md)(銀杏一輝)
 * [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-2.pdf) (秋下耀介)
 * [@yamatchan](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
+* [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
+* [@shuya-abe](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/Report1_2.md)(阿部修也)
+* [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-2.md)(木藤嵩人)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/blob/master/reports/20161005/report.md)(錦織 秀)
+* [@Nagatomi-Ken](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-2.md)(永富賢)
+* [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md)(信家)
+* [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
+
+-
 
 ## 課題: Hello Trema
 
@@ -81,7 +90,13 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report2.md)(銀杏一輝)
 * [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/develop/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-3.pdf) (秋下耀介)
 * [@yamatchan](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
-
+* [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
+* [@shuya-abe](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/Report1_3.md)(阿部修也)
+* [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-3.md)(木藤嵩人)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/blob/master/reports/20161005/report2.md)(錦織 秀)
+* [@Nagatomi-Ken](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-3.md)(永富賢)
+* [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md#user-content-%E3%82%AF%E3%83%A9%E3%82%B9%E5%90%8D%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B)(信家)
+* [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
 
 
 ## 課題: Cbench のボトルネック調査
@@ -89,7 +104,15 @@
 * [@r-narimoto](https://github.com/handai-trema/cbench-r-narimoto/blob/master/report.md)(成元 椋祐)
 * [@Tatsu-Tanaka](https://github.com/handai-trema/cbench-Tatsu-Tanaka/blob/master/report_cbench.md) (田中 達也)
 * [@yamatchan](https://github.com/handai-trema/cbench-yamatchan/blob/master/report.md)
-
+* [@nsyuyu](https://github.com/handai-trema/cbench-nsyuyu/blob/master/report/report.md)(西村 友佑)
+* [@shuya-abe](https://github.com/handai-trema/cbench-shuya-abe/blob/master/report.md)(阿部修也)
+* [@t-kito](https://github.com/handai-trema/cbench-t-kito/blob/develop/report2-1.md)(木藤嵩人)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/cbench-Shu-NISHIKORI/blob/master/reports/20161012/report.md)(錦織 秀)
+* [@Nagatomi-Ken](https://github.com/handai-trema/cbench-Nagatomi-Ken/blob/master/report2-1.md)(永富賢)
+* [@trema-nobu](https://github.com/handai-trema/cbench-trema-nobu/blob/master/report.md)(信家)
+* [@Kazuki-Ginnan](https://github.com/handai-trema/cbench-Kazuki-Ginnan/blob/develop/profile_report.md)(銀杏一輝)
+* [@d-miura](https://github.com/handai-trema/cbench-d-miura/blob/master/Report1012.md)(三浦太樹)
+* [@yosuke-akishita](https://github.com/handai-trema/cbench-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-cbench%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96.pdf)(秋下耀介)
 
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
@@ -97,7 +120,16 @@
 * [@r-narimoto](https://github.com/handai-trema/learning-switch-r-narimoto/blob/master/report.md)(成元 椋祐)
 * [@Tatsu-Tanaka](https://github.com/handai-trema/learning-switch-Tatsu-Tanaka/blob/master/report_learning_switch.md) (田中 達也)
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report.md)
-
+* [@nsyuyu](https://github.com/handai-trema/learning-switch-nsyuyu/blob/master/report/report.md)(西村 友佑)
+* [@shuya-abe](https://github.com/handai-trema/learning-switch-shuya-abe/blob/master/report.md)(阿部修也)
+* [@t-kito](https://github.com/handai-trema/learning-switch-t-kito/blob/develop/report2-2.md)(木藤嵩人)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/learning-switch-Shu-NISHIKORI/blob/master/reports/20161012/report.md)(錦織 秀)
+*  [@yusuke-hara](https://github.com/handai-trema/learning-switch-yusuke-hara/blob/master/report.md)(原佑輔)
+* [@Nagatomi-Ken](https://github.com/handai-trema/learning-switch-Nagatomi-Ken/blob/master/report2-2.md)(永富賢)
+* [@trema-nobu](https://github.com/handai-trema/learning-switch-trema-nobu/blob/master/report.md)(信家)
+* [@Kazuki-Ginnan](https://github.com/handai-trema/learning-switch-Kazuki-Ginnan/blob/develop2/multibridge_report.md)(銀杏一輝)
+* [@d-miura](https://github.com/handai-trema/learning-switch-d-miura/blob/master/report1012-2.md)(三浦太樹)
+* [@yosuke-akishita](https://github.com/handai-trema/learning-switch-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-%E8%A4%87%E6%95%B0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C.pdf)(秋下耀介)
 
 ## 課題: OpenFlow 1.3版 マルチプルテーブルを読む
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report-1.3.md)
