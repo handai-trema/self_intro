@@ -69,6 +69,7 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report.md)(銀杏一輝)
 * [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-2.pdf) (秋下耀介)
 * [@yamatchan](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
+* [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
 
 ## 課題: Hello Trema
 
@@ -81,7 +82,7 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report2.md)(銀杏一輝)
 * [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/develop/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-3.pdf) (秋下耀介)
 * [@yamatchan](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
-
+* [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
 
 
 ## 課題: Cbench のボトルネック調査
@@ -89,7 +90,7 @@
 * [@r-narimoto](https://github.com/handai-trema/cbench-r-narimoto/blob/master/report.md)(成元 椋祐)
 * [@Tatsu-Tanaka](https://github.com/handai-trema/cbench-Tatsu-Tanaka/blob/master/report_cbench.md) (田中 達也)
 * [@yamatchan](https://github.com/handai-trema/cbench-yamatchan/blob/master/report.md)
-
+* [@nsyuyu](https://github.com/handai-trema/cbench-nsyuyu/blob/master/report/report.md)(西村 友佑)
 
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
@@ -97,3 +98,4 @@
 * [@r-narimoto](https://github.com/handai-trema/learning-switch-r-narimoto/blob/master/report.md)(成元 椋祐)
 * [@Tatsu-Tanaka](https://github.com/handai-trema/learning-switch-Tatsu-Tanaka/blob/master/report_learning_switch.md) (田中 達也)
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report.md)
+* [@nsyuyu](https://github.com/handai-trema/learning-switch-nsyuyu/blob/master/report/report.md)(西村 友佑)
