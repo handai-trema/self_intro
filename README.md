@@ -85,10 +85,11 @@
 ## 課題: Cbench のボトルネック調査
 * [@k-tsuji](https://github.com/handai-trema/cbench-k-tsuji/blob/master/report_cbench.md) (辻　健太)
 * [@r-narimoto](https://github.com/handai-trema/cbench-r-narimoto/blob/master/report.md)(成元 椋祐)
-
+* [@Tatsu-Tanaka](https://github.com/handai-trema/cbench-Tatsu-Tanaka/blob/master/report_cbench.md) (田中 達也)
 
 
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
 * [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md) (辻　健太)
 * [@r-narimoto](https://github.com/handai-trema/learning-switch-r-narimoto/blob/master/report.md)(成元 椋祐)
+* [@Tatsu-Tanaka](https://github.com/handai-trema/learning-switch-Tatsu-Tanaka/blob/master/report_learning_switch.md) (田中 達也)
