@@ -96,6 +96,7 @@
 * [@nsyuyu](https://github.com/handai-trema/cbench-nsyuyu/blob/master/report/report.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/cbench-shuya-abe/blob/master/report/report.md)(阿部修也)
 * [@t-kito](https://github.com/handai-trema/cbench-t-kito/blob/develop/report2-1.md)(木藤嵩人)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/cbench-Shu-NISHIKORI/blob/master/reports/20161012/report.md)(錦織 秀)
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
 * [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md) (辻　健太)
@@ -105,4 +106,5 @@
 * [@nsyuyu](https://github.com/handai-trema/learning-switch-nsyuyu/blob/master/report/report.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/learning-switch-shuya-abe/blob/master/report/report.md)(阿部修也)
 * [@t-kito](https://github.com/handai-trema/learning-switch-t-kito/blob/develop/report2-2.md)(木藤嵩人)
+* [@Shu-NISHIKORI](https://github.com/handai-trema/learning-switch-Shu-NISHIKORI/blob/master/reports/20161012/report.md)(錦織 秀)
 
