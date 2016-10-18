@@ -74,7 +74,10 @@
 * [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-2.md)(木藤嵩人)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/blob/master/reports/20161005/report.md)(錦織 秀)
 * [@Nagatomi-Ken](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-2.md)(永富賢)
+* [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md#user-content-スイッチの切断イベント)(信家)
 
+
+-
 
 ## 課題: Hello Trema
 
@@ -92,7 +95,7 @@
 * [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-3.md)(木藤嵩人)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/blob/master/reports/20161005/report2.md)(錦織 秀)
 * [@Nagatomi-Ken](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-3.md)(永富賢)
-
+* [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md#user-content-%E3%82%AF%E3%83%A9%E3%82%B9%E5%90%8D%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B)(信家)
 
 ## 課題: Cbench のボトルネック調査
 * [@k-tsuji](https://github.com/handai-trema/cbench-k-tsuji/blob/master/report_cbench.md) (辻　健太)
@@ -104,6 +107,8 @@
 * [@t-kito](https://github.com/handai-trema/cbench-t-kito/blob/develop/report2-1.md)(木藤嵩人)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/cbench-Shu-NISHIKORI/blob/master/reports/20161012/report.md)(錦織 秀)
 * [@Nagatomi-Ken](https://github.com/handai-trema/cbench-Nagatomi-Ken/blob/master/report2-1.md)(永富賢)
+* [@trema-nobu](https://github.com/handai-trema/cbench-trema-nobu/blob/master/report.md)(信家)
+
 
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
@@ -117,5 +122,7 @@
 * [@Shu-NISHIKORI](https://github.com/handai-trema/learning-switch-Shu-NISHIKORI/blob/master/reports/20161012/report.md)(錦織 秀)
 *  [@yusuke-hara](https://github.com/handai-trema/learning-switch-yusuke-hara/blob/master/report.md)(原佑輔)
 * [@Nagatomi-Ken](https://github.com/handai-trema/learning-switch-Nagatomi-Ken/blob/master/report2-2.md)(永富賢)
+* [@trema-nobu](https://github.com/handai-trema/learning-switch-trema-nobu/blob/master/report.md)(信家)
+
 
 
