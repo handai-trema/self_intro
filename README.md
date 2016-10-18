@@ -71,6 +71,7 @@
 * [@yamatchan](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
 * [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/report/Report1_2.md)(阿部修也)
+* [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-2.md)(木藤嵩人)
 
 ## 課題: Hello Trema
 
@@ -85,6 +86,7 @@
 * [@yamatchan](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
 * [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/report/Report1_3.md)(阿部修也)
+* [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-3.md)(木藤嵩人)
 
 ## 課題: Cbench のボトルネック調査
 * [@k-tsuji](https://github.com/handai-trema/cbench-k-tsuji/blob/master/report_cbench.md) (辻　健太)
@@ -93,7 +95,7 @@
 * [@yamatchan](https://github.com/handai-trema/cbench-yamatchan/blob/master/report.md)
 * [@nsyuyu](https://github.com/handai-trema/cbench-nsyuyu/blob/master/report/report.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/cbench-shuya-abe/blob/master/report/report.md)(阿部修也)
-
+* [@t-kito](https://github.com/handai-trema/cbench-t-kito/blob/develop/report2-1.md)(木藤嵩人)
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
 * [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md) (辻　健太)
@@ -102,4 +104,5 @@
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report.md)
 * [@nsyuyu](https://github.com/handai-trema/learning-switch-nsyuyu/blob/master/report/report.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/learning-switch-shuya-abe/blob/master/report/report.md)(阿部修也)
+* [@t-kito](https://github.com/handai-trema/learning-switch-t-kito/blob/develop/report2-2.md)(木藤嵩人)
 
