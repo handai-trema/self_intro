@@ -105,4 +105,5 @@
 * [@nsyuyu](https://github.com/handai-trema/learning-switch-nsyuyu/blob/master/report/report.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/learning-switch-shuya-abe/blob/master/report/report.md)(阿部修也)
 * [@t-kito](https://github.com/handai-trema/learning-switch-t-kito/blob/develop/report2-2.md)(木藤嵩人)
+* [@yusuke-hara](https://github.com/handai-trema/learning-switch-yusuke-hara/blob/master/report.md)(原佑輔)
 
