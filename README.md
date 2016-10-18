@@ -74,7 +74,7 @@
 * [@t-kito](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-2.md)(木藤嵩人)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/blob/master/reports/20161005/report.md)(錦織 秀)
 * [@Nagatomi-Ken](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-2.md)(永富賢)
-* [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md#user-content-スイッチの切断イベント)(信家)
+* [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md)(信家)
 
 
 -
