@@ -137,7 +137,7 @@
 
 ## 課題: パッチパネルの機能拡張
 * [@yamatchan](https://github.com/handai-trema/patch-panel-yamatchan/blob/master/report.md)
+* [@r-narimoto](https://github.com/handai-trema/patch-panel-r-narimoto/blob/master/report.md)(成元 椋祐)
 
 ## 課題: OpenFlow 1.3版 マルチプルテーブルを読む
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report-1.3.md)
-
