@@ -115,6 +115,7 @@
 * [@yosuke-akishita](https://github.com/handai-trema/cbench-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-cbench%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96.pdf)(秋下耀介)
 * [@tomok0823](https://github.com/handai-trema/cbench-tomok0823/blob/master/report/report.md)(今井友揮)
 * [@k-sakamoto3](https://github.com/handai-trema/cbench-k-sakamoto3/blob/master/report2-1.md)(坂本昂輝)
+* [@yusuke-hara](https://github.com/handai-trema/cbench-yusuke-hara/blob/master/report.md)(原 佑輔)
 
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
