@@ -141,6 +141,7 @@
 * [@r-narimoto](https://github.com/handai-trema/patch-panel-r-narimoto/blob/master/report.md)(成元 椋祐)
 * [@k-tsuji](https://github.com/handai-trema/patch-panel-k-tsuji/blob/develop/report_patch-panel.md)(辻　健太)
 * [@d-miura](https://github.com/handai-trema/patch-panel-d-miura/blob/master/report1019.md)(三浦太樹)
+* [@yusuke-hara](https://github.com/handai-trema/patch-panel-yusuke-hara/blob/master/report.md)(原佑輔)
 
 ## 課題: OpenFlow 1.3版 マルチプルテーブルを読む
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report-1.3.md)
