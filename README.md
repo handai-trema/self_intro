@@ -147,7 +147,8 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/patch-panel-Tatsu-Tanaka/blob/master/report_patch_panel.md) (田中 達也)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/patch-panel-Shu-NISHIKORI/blob/develop/reports/20161019/report.md) (錦織 秀)
 * [@yosuke-akishita](https://github.com/handai-trema/patch-panel-yosuke-akishita/blob/master/ensyuu2-y-akishita-patch-panel.pdf)(秋下耀介)
-* [@Nagatomi-Ken](https://github.com/handai-trema/patch-panel-Nagatomi-Ken/blob/develop/report3-1.md)(永富賢）
+* [@Nagatomi-Ken](https://github.com/handai-trema/patch-panel-Nagatomi-Ken/blob/develop/report3-1.md)(永富賢）  
+* [@tomok0823](https://github.com/handai-trema/patch-panel-tomok0823/blob/develop/report.md)(今井 友揮)
 
 ## 課題: OpenFlow 1.3版 マルチプルテーブルを読む
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report-1.3.md)
