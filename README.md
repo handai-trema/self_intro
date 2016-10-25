@@ -159,3 +159,4 @@
 * [@Shu-NISHIKORI](https://github.com/handai-trema/learning-switch-Shu-NISHIKORI/blob/develop/reports/20161019/report2.md) (錦織 秀)
 * [@yosuke-akishita](https://github.com/handai-trema/learning-switch-yosuke-akishita/blob/master/ensyuu2-y-akishita-multi-table.pdf)(秋下耀介)
 * [@Nagatomi-Ken](https://github.com/handai-trema/learning-switch-Nagatomi-Ken/blob/develop/report3-2.md)(永富賢)
+* [@yusuke-hara](https://github.com/handai-trema/learning-switch-yusuke-hara/blob/master/report13.md)(原佑輔)
