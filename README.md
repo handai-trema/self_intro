@@ -147,6 +147,7 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/patch-panel-Tatsu-Tanaka/blob/master/report_patch_panel.md) (田中 達也)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/patch-panel-Shu-NISHIKORI/blob/develop/reports/20161019/report.md) (錦織 秀)
 * [@yosuke-akishita](https://github.com/handai-trema/patch-panel-yosuke-akishita/blob/master/ensyuu2-y-akishita-patch-panel.pdf)(秋下耀介)
+* [@Nagatomi-Ken](https://github.com/handai-trema/patch-panel-Nagatomi-Ken/blob/develop/report3-1.md)(永富賢）
 
 ## 課題: OpenFlow 1.3版 マルチプルテーブルを読む
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report-1.3.md)
@@ -156,3 +157,4 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/learning-switch-Tatsu-Tanaka/blob/master/report_learning_switch13.md) (田中 達也)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/learning-switch-Shu-NISHIKORI/blob/develop/reports/20161019/report2.md) (錦織 秀)
 * [@yosuke-akishita](https://github.com/handai-trema/learning-switch-yosuke-akishita/blob/master/ensyuu2-y-akishita-multi-table.pdf)(秋下耀介)
+* [@Nagatomi-Ken](https://github.com/handai-trema/learning-switch-Nagatomi-Ken/blob/develop/report3-2.md)(永富賢)
