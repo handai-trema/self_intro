@@ -76,6 +76,7 @@
 * [@Nagatomi-Ken](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-2.md)(永富賢)
 * [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md)(信家)
 * [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
+* [@tomok0823](https://github.com/handai-trema/hello-trema-tomok0823/blob/develop/report/2016_10_05.md)
 
 -
 
@@ -97,6 +98,7 @@
 * [@Nagatomi-Ken](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-3.md)(永富賢)
 * [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md#user-content-%E3%82%AF%E3%83%A9%E3%82%B9%E5%90%8D%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B)(信家)
 * [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
+* [@tomok0823](https://github.com/handai-trema/hello-trema-tomok0823/blob/develop/report/2016_10_05.md)
 
 
 ## 課題: Cbench のボトルネック調査
