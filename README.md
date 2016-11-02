@@ -174,5 +174,5 @@
 * [@shuya-abe](https://github.com/handai-trema/learning-switch-shuya-abe/blob/develop/report3-2.md)(阿部修也)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/patch-panel-Kazuki-Ginnan/blob/develop/report.md)(銀杏一輝)
 
-## 課題：ルータのCLIを作ろう
+## 課題: ルータのCLIを作ろう
 * [@r-narimoto](https://github.com/handai-trema/simple-router-r-narimoto/blob/master/report.md)(成元 椋祐)
