@@ -184,3 +184,4 @@
 * [@yusuke-hara](https://github.com/handai-trema/simple-router-yusuke-hara/blob/master/report.md)(原佑輔)
 * [@Ryo-Murakami](https://github.com/handai-trema/simple-router-Ryo-Murakami/blob/develop/report_simple_router.pdf)(村上 遼)
 * [@d-miura](https://github.com/handai-trema/simple-router-d-miura/blob/master/report1102.md)(三浦太樹)
+* [@Nagatomi-Ken](https://github.com/handai-trema/simple-router-Nagatomi-Ken/blob/develop/report5-1.md)(永富賢)
