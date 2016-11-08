@@ -178,3 +178,4 @@
 * [@r-narimoto](https://github.com/handai-trema/simple-router-r-narimoto/blob/master/report.md)(成元 椋祐)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/simple-router-Shu-NISHIKORI/blob/develop/report/report.md)(錦織 秀)
 * [@k-tsuji](https://github.com/handai-trema/simple-router-k-tsuji/blob/develop/report_simple-router.md)(辻　健太)
+* [@Kazuki-Ginnan](https://github.com/handai-trema/simple-router-Kazuki-Ginnan/blob/develop/routing_table_report.md)(銀杏一輝)
