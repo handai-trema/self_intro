@@ -186,4 +186,5 @@
 * [@d-miura](https://github.com/handai-trema/simple-router-d-miura/blob/master/report1102.md)(三浦太樹)
 * [@Nagatomi-Ken](https://github.com/handai-trema/simple-router-Nagatomi-Ken/blob/develop/report5-1.md)(永富賢)
 * [@trema-nobu](https://github.com/handai-trema/simple-router-trema-nobu/blob/develop/report.md)(信家悠司)
-* [@t-kito](https://github.com/handai-trema/simple-router-t-kito/blob/develop/report5.md)(木藤嵩人)
+* [@t-kito](https://github.com/handai-trema/simple-router-t-kito/blob/develop/report5.md)(木藤嵩人)  
+* [@tomok0823](https://github.com/handai-trema/simple-router-tomok0823/blob/develop/report.md)
