@@ -182,3 +182,4 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/simple-router-Tatsu-Tanaka/blob/master/report_simple_router.md) (田中 達也)
 * [@shuya-abe](https://github.com/handai-trema/simple-router-shuya-abe/blob/develop/report.md)(阿部修也)
 * [@yusuke-hara](https://github.com/handai-trema/simple-router-yusuke-hara/blob/master/report.md)(原佑輔)
+* [@Ryo-Murakami](https://github.com/handai-trema/simple-router-Ryo-Murakami/blob/develop/report_simple_router.pdf)(村上 遼)
