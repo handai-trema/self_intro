@@ -189,3 +189,4 @@
 * [@t-kito](https://github.com/handai-trema/simple-router-t-kito/blob/develop/report5.md)(木藤嵩人)  
 * [@tomok0823](https://github.com/handai-trema/simple-router-tomok0823/blob/develop/report.md)(今井 友揮)
 * [@k-sakamoto3](https://github.com/handai-trema/simple-router-k-sakamoto3/blob/master/report4-1.md)(坂本昂輝)
+* [@nsyuyu](https://github.com/handai-trema/simple-router-nsyuyu/blob/master/report.md)(西村 友佑)
