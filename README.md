@@ -197,5 +197,6 @@
 * [@k-sakamoto3](https://github.com/handai-trema/simple-router-k-sakamoto3/blob/master/report4-1.md)(坂本昂輝)
 * [@nsyuyu](https://github.com/handai-trema/simple-router-nsyuyu/blob/master/report.md)(西村 友佑)
 * [@KokiSakata](https://github.com/handai-trema/simple-router-KokiSakata/blob/master/report20161102Developing%20Router%20CLI.md)(坂田 航樹)
+* [@yosuke-akishita](https://github.com/handai-trema/simple-router-yosuke-akishita/blob/master/ensyuu2-y-akishita-simple-router.pdf)(秋下耀介)
 
 >>>>>>> aeea60923b34dee0ab3a1f1e9ad762db18c010de
