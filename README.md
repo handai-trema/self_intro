@@ -119,6 +119,7 @@
 * [@k-sakamoto3](https://github.com/handai-trema/cbench-k-sakamoto3/blob/master/report2-1.md)(坂本昂輝)
 * [@yusuke-hara](https://github.com/handai-trema/cbench-yusuke-hara/blob/master/report.md)(原 佑輔)
 * [@KokiSakata](https://github.com/handai-trema/cbench-KokiSakata/blob/master/report20161012cbench.md)(坂田 航樹)
+* [@Takuya-Saitoh](https://github.com/handai-trema/cbench-Takuya-Saitoh/blob/master/report.md)(齋藤卓哉)
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
 * [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md) (辻　健太)
@@ -138,6 +139,7 @@
 * [@tomok0823](https://github.com/handai-trema/learning-switch-tomok0823/blob/master/report.md)(今井友揮)
 * [@k-sakamoto3](https://github.com/handai-trema/learning-switch-k-sakamoto3/blob/master/report2-2.md)(坂本昂輝)
 * [@KokiSakata](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161012learning_switch.md)(坂田 航樹)
+* [@Takuya-Saitoh](https://github.com/handai-trema/learning-switch-Takuya-Saitoh/blob/master/report.md)(齋藤卓哉)
 
 ## 課題: パッチパネルの機能拡張
 * [@yamatchan](https://github.com/handai-trema/patch-panel-yamatchan/blob/master/report.md)
@@ -157,6 +159,7 @@
 * [@shuya-abe](https://github.com/handai-trema/patch-panel-shuya-abe/blob/develop/report.md)(阿部修也)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/patch-panel-Kazuki-Ginnan/blob/develop/report.md)(銀杏一輝)
 * [@KokiSakata](https://github.com/handai-trema/patch-panel-KokiSakata/blob/master/report1019patchpanel.md)(坂田 航樹)
+* [@Takuya-Saitoh](https://github.com/handai-trema/patch-panel-Takuya-Saitoh/blob/master/report3-1.md)(齋藤卓哉)
 
 ## 課題: OpenFlow 1.3版 マルチプルテーブルを読む
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report-1.3.md)
@@ -195,6 +198,7 @@
 * [@nsyuyu](https://github.com/handai-trema/simple-router-nsyuyu/blob/master/report.md)(西村 友佑)
 * [@KokiSakata](https://github.com/handai-trema/simple-router-KokiSakata/blob/master/report20161102Developing%20Router%20CLI.md)(坂田 航樹)
 * [@yosuke-akishita](https://github.com/handai-trema/simple-router-yosuke-akishita/blob/master/ensyuu2-y-akishita-simple-router.pdf)(秋下耀介)
+* [@Takuya-Saitoh](https://github.com/handai-trema/simple-router-Takuya-Saitoh/blob/master/report05.md)(齋藤卓哉)
 
 ## 課題: 実機でトポロジを動かそう
 * [@handm](https://github.com/handai-trema/topology-handm/blob/develop/report_assignment1_topology.md)(阿部，信家，満越，辻)
