@@ -78,6 +78,7 @@
 * [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md)(信家)
 * [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
 * [@tomok0823](https://github.com/handai-trema/hello-trema-tomok0823/blob/develop/report/2016_10_05.md)(今井 友揮)
+* [@t-mangoe](https://github.com/handai-trema/hello-trema-t-mangoe/blob/develop/report.pdf)(満越 貴志)
 
 ## 課題: Hello Trema
 
@@ -99,6 +100,7 @@
 * [@trema-nobu](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md#user-content-%E3%82%AF%E3%83%A9%E3%82%B9%E5%90%8D%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B)(信家)
 * [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
 * [@tomok0823](https://github.com/handai-trema/hello-trema-tomok0823/blob/develop/report/2016_10_05.md)(今井 友揮)
+* [@t-mangoe](https://github.com/handai-trema/hello-trema-t-mangoe/blob/develop/report.pdf)(満越 貴志)
 
 
 ## 課題: Cbench のボトルネック調査
@@ -120,6 +122,7 @@
 * [@yusuke-hara](https://github.com/handai-trema/cbench-yusuke-hara/blob/master/report.md)(原 佑輔)
 * [@KokiSakata](https://github.com/handai-trema/cbench-KokiSakata/blob/master/report20161012cbench.md)(坂田 航樹)
 * [@Takuya-Saitoh](https://github.com/handai-trema/cbench-Takuya-Saitoh/blob/master/report.md)(齋藤卓哉)
+* [@t-mangoe](https://github.com/handai-trema/cbench-t-mangoe/blob/develop/report.pdf)(満越 貴志)
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
 * [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md) (辻　健太)
@@ -140,6 +143,7 @@
 * [@k-sakamoto3](https://github.com/handai-trema/learning-switch-k-sakamoto3/blob/master/report2-2.md)(坂本昂輝)
 * [@KokiSakata](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161012learning_switch.md)(坂田 航樹)
 * [@Takuya-Saitoh](https://github.com/handai-trema/learning-switch-Takuya-Saitoh/blob/master/report.md)(齋藤卓哉)
+* [@t-mangoe](https://github.com/handai-trema/learning-switch-t-mangoe/blob/develop/report.pdf)(満越 貴志)
 
 ## 課題: パッチパネルの機能拡張
 * [@yamatchan](https://github.com/handai-trema/patch-panel-yamatchan/blob/master/report.md)
@@ -160,6 +164,7 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/patch-panel-Kazuki-Ginnan/blob/develop/report.md)(銀杏一輝)
 * [@KokiSakata](https://github.com/handai-trema/patch-panel-KokiSakata/blob/master/report1019patchpanel.md)(坂田 航樹)
 * [@Takuya-Saitoh](https://github.com/handai-trema/patch-panel-Takuya-Saitoh/blob/master/report3-1.md)(齋藤卓哉)
+* [@t-mangoe](https://github.com/handai-trema/patch-panel-t-mangoe/blob/develop/report.pdf)(満越 貴志)
 
 ## 課題: OpenFlow 1.3版 マルチプルテーブルを読む
 * [@yamatchan](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report-1.3.md)
@@ -179,6 +184,7 @@
 * [@shuya-abe](https://github.com/handai-trema/learning-switch-shuya-abe/blob/develop/report3-2.md)(阿部修也)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/patch-panel-Kazuki-Ginnan/blob/develop/report.md)(銀杏一輝)
 * [@KokiSakata](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161019Inspecting_Multiple_Tbales.md)(坂田 航樹)
+* [@t-mangoe](https://github.com/handai-trema/learning-switch-t-mangoe/blob/develop/report2.pdf)(満越 貴志)
 
 ## 課題: ルータのCLIを作ろう
 * [@r-narimoto](https://github.com/handai-trema/simple-router-r-narimoto/blob/master/report.md)(成元 椋祐)
@@ -199,6 +205,7 @@
 * [@KokiSakata](https://github.com/handai-trema/simple-router-KokiSakata/blob/master/report20161102Developing%20Router%20CLI.md)(坂田 航樹)
 * [@yosuke-akishita](https://github.com/handai-trema/simple-router-yosuke-akishita/blob/master/ensyuu2-y-akishita-simple-router.pdf)(秋下耀介)
 * [@Takuya-Saitoh](https://github.com/handai-trema/simple-router-Takuya-Saitoh/blob/master/report05.md)(齋藤卓哉)
+* [@t-mangoe](https://github.com/handai-trema/simple-router-t-mangoe/blob/develop/paper.pdf)(満越 貴志)
 
 ## 課題: 実機でトポロジを動かそう
 * [@handm](https://github.com/handai-trema/topology-handm/blob/develop/report_assignment1_topology.md)(阿部，信家，満越，辻)
