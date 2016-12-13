@@ -215,4 +215,6 @@
 
 ##課題: スライス機能の拡張
 * [@team-w](https://github.com/handai-trema/sliceable-switch-team-w/blob/develop/Report.md)(木藤，銀杏，永富，錦織，村上)
+* [@handm](https://github.com/handai-trema/sliceable-switch-handm/blob/develop/report_sliceable_switch.md)(阿部，信家，満越，辻)
+
 
