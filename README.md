@@ -212,9 +212,12 @@
 * [@handm](https://github.com/handai-trema/routing-switch-handm/blob/develop/report_routing-switch.md)(阿部，信家，満越，辻)
 * [@team-w](https://github.com/handai-trema/routing-switch-team-w/blob/develop/20161129_report2.md)(木藤，銀杏，永富，錦織，村上)
 * [@owl](https://github.com/handai-trema/routing-switch-owl/blob/develop/report_routing_switch_owl.md)(秋下、坂田、坂本、佐竹、田中、斎藤、Jens Oetjen)
+* [@amn](https://github.com/handai-trema/routing-switch-amn/blob/master/report.md)(今井，成元，西村，原，三浦)
+
 
 ##課題: スライス機能の拡張
 * [@team-w](https://github.com/handai-trema/sliceable-switch-team-w/blob/develop/Report.md)(木藤，銀杏，永富，錦織，村上)
-* [@handm](https://github.com/handai-trema/sliceable-switch-handm/blob/develop/report_sliceable_switch.md)(阿部，信家，満越，辻)
+* [@handm](https://github.com/handai-trema/sliceable-switch-handm/blob/develop/report_sliceable_switch.md)(阿部，信家，満越，辻)  
+* [@amn](https://github.com/handai-trema/sliceable-switch-amn/blob/report/report.md)(今井，成元，西村，原，三浦)
 
 
