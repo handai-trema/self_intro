@@ -185,6 +185,7 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/patch-panel-Kazuki-Ginnan/blob/develop/report.md)(銀杏一輝)
 * [@KokiSakata](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161019Inspecting_Multiple_Tbales.md)(坂田 航樹)
 * [@t-mangoe](https://github.com/handai-trema/learning-switch-t-mangoe/blob/develop/report2.pdf)(満越 貴志)
+* [@Takuya-Saitoh](https://github.com/handai-trema/learning-switch-Takuya-Saitoh/blob/master/report2.md)(齋藤 卓哉)
 
 ## 課題: ルータのCLIを作ろう
 * [@r-narimoto](https://github.com/handai-trema/simple-router-r-narimoto/blob/master/report.md)(成元 椋祐)
