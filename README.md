@@ -219,5 +219,4 @@
 * [@team-w](https://github.com/handai-trema/sliceable-switch-team-w/blob/develop/Report.md)(木藤，銀杏，永富，錦織，村上)
 * [@handm](https://github.com/handai-trema/sliceable-switch-handm/blob/develop/report_sliceable_switch.md)(阿部，信家，満越，辻)  
 * [@amn](https://github.com/handai-trema/sliceable-switch-amn/blob/report/report.md)(今井，成元，西村，原，三浦)
-
-
+* [@owl](https://github.com/handai-trema/sliceable-switch-owl/blob/develop/report_sliceable_switch_owl.md)(秋下、坂田、坂本、佐竹、田中、斎藤、Jens Oetjen)
