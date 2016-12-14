@@ -148,7 +148,7 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/patch-panel-Tatsu-Tanaka/blob/master/report_patch_panel.md) (田中 達也)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/patch-panel-Shu-NISHIKORI/blob/develop/reports/20161019/report.md) (錦織 秀)
 * [@yosuke-akishita](https://github.com/handai-trema/patch-panel-yosuke-akishita/blob/master/ensyuu2-y-akishita-patch-panel.pdf)(秋下耀介)
-* [@Nagatomi-Ken](https://github.com/handai-trema/patch-panel-Nagatomi-Ken/blob/develop/report3-1.md)(永富賢）  
+* [@Nagatomi-Ken](https://github.com/handai-trema/patch-panel-Nagatomi-Ken/blob/develop/report3-1.md)(永富賢）
 * [@tomok0823](https://github.com/handai-trema/patch-panel-tomok0823/blob/develop/report.md)(今井 友揮)
 * [@t-kito](https://github.com/handai-trema/patch-panel-t-kito/blob/develop/report3-1.md)(木藤嵩人)
 * [@Ryo-Murakami](https://github.com/handai-trema/patch-panel-Ryo-Murakami/blob/develop/report_patch_panel.pdf)(村上 遼)
@@ -171,7 +171,7 @@
 * [@t-kito](https://github.com/handai-trema/learning-switch-t-kito/blob/develop/report3-2.md)(木藤嵩人)
 * [@Ryo-Murakami](https://github.com/handai-trema/learning-switch-Ryo-Murakami/blob/develop/report_openflow13.pdf)(村上 遼)
 * [@nsyuyu](https://github.com/handai-trema/learning-switch-nsyuyu/blob/master/report/reportOP13.md)(西村 友佑)
-* [@trema-nobu](https://github.com/handai-trema/learning-switch-trema-nobu/blob/master/report-4.md)(信家悠司)  
+* [@trema-nobu](https://github.com/handai-trema/learning-switch-trema-nobu/blob/master/report-4.md)(信家悠司)
 * [@tomok0823](https://github.com/handai-trema/learning-switch-tomok0823/blob/develop/report_1.3.md)(今井 友揮)
 * [@shuya-abe](https://github.com/handai-trema/learning-switch-shuya-abe/blob/develop/report3-2.md)(阿部修也)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/patch-panel-Kazuki-Ginnan/blob/develop/report.md)(銀杏一輝)
@@ -189,7 +189,7 @@
 * [@d-miura](https://github.com/handai-trema/simple-router-d-miura/blob/master/report1102.md)(三浦太樹)
 * [@Nagatomi-Ken](https://github.com/handai-trema/simple-router-Nagatomi-Ken/blob/develop/report5-1.md)(永富賢)
 * [@trema-nobu](https://github.com/handai-trema/simple-router-trema-nobu/blob/develop/report.md)(信家悠司)
-* [@t-kito](https://github.com/handai-trema/simple-router-t-kito/blob/develop/report5.md)(木藤嵩人)  
+* [@t-kito](https://github.com/handai-trema/simple-router-t-kito/blob/develop/report5.md)(木藤嵩人)
 * [@tomok0823](https://github.com/handai-trema/simple-router-tomok0823/blob/develop/report.md)(今井 友揮)
 * [@k-sakamoto3](https://github.com/handai-trema/simple-router-k-sakamoto3/blob/master/report4-1.md)(坂本昂輝)
 * [@nsyuyu](https://github.com/handai-trema/simple-router-nsyuyu/blob/master/report.md)(西村 友佑)
@@ -208,15 +208,15 @@
 * [@team-w](https://github.com/handai-trema/topology-team-w/blob/develop/report6-2.md)(木藤，銀杏，永富，錦織，村上)
 * [@owl](https://github.com/handai-trema/topology-owl/blob/master/report_topology_owl.md)(秋下、坂田、坂本、佐竹、田中、斎藤、Jens Oetjen)
 
-##課題: 経路選択アルゴリズムの実装と可視化
+## 課題: 経路選択アルゴリズムの実装と可視化
 * [@handm](https://github.com/handai-trema/routing-switch-handm/blob/develop/report_routing-switch.md)(阿部，信家，満越，辻)
 * [@team-w](https://github.com/handai-trema/routing-switch-team-w/blob/develop/20161129_report2.md)(木藤，銀杏，永富，錦織，村上)
 * [@owl](https://github.com/handai-trema/routing-switch-owl/blob/develop/report_routing_switch_owl.md)(秋下、坂田、坂本、佐竹、田中、斎藤、Jens Oetjen)
 * [@amn](https://github.com/handai-trema/routing-switch-amn/blob/master/report.md)(今井，成元，西村，原，三浦)
 
 
-##課題: スライス機能の拡張
+## 課題: スライス機能の拡張
 * [@team-w](https://github.com/handai-trema/sliceable-switch-team-w/blob/develop/Report.md)(木藤，銀杏，永富，錦織，村上)
-* [@handm](https://github.com/handai-trema/sliceable-switch-handm/blob/develop/report_sliceable_switch.md)(阿部，信家，満越，辻)  
+* [@handm](https://github.com/handai-trema/sliceable-switch-handm/blob/develop/report_sliceable_switch.md)(阿部，信家，満越，辻)
 * [@amn](https://github.com/handai-trema/sliceable-switch-amn/blob/report/report.md)(今井，成元，西村，原，三浦)
 * [@owl](https://github.com/handai-trema/sliceable-switch-owl/blob/develop/report_sliceable_switch_owl.md)(秋下、坂田、坂本、佐竹、田中、斎藤、Jens Oetjen)
