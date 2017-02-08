@@ -236,3 +236,5 @@
 ##未完了課題の提出
 * [@Kazuki-Ginnan](https://github.com/handai-trema/patch-panel-Kazuki-Ginnan/blob/develop/report.md)(銀杏一輝:パッチパネルの機能拡張)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/patch-panel-Kazuki-Ginnan/blob/develop/report2.md)(銀杏一輝:OpenFlow 1.3版 マルチプルテーブルを読む)
+* [@k-sakamoto3](https://github.com/handai-trema/patch-panel-k-sakamoto3/blob/master/report3-1.md)(坂本昂輝:パッチパネルの機能拡張)
+* [@k-sakamoto3](https://github.com/handai-trema/learning-switch-k-sakamoto3/blob/master/report3-2.md)(坂本昂輝:OpenFlow 1.3版 マルチプルテーブルを読む)
