@@ -69,6 +69,7 @@
 * [@yusuke-hara](https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05_1.md)(原 佑輔)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report.md)(銀杏一輝)
 * [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-2.pdf) (秋下耀介)
+* [@k-satake](https://github.com/handai-trema/hello-trema-ksatake/blob/master/report1.md)(佐竹 幸大)
 * [@yamatchan](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
 * [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/Report1_2.md)(阿部修也)
@@ -79,6 +80,8 @@
 * [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
 * [@tomok0823](https://github.com/handai-trema/hello-trema-tomok0823/blob/develop/report/2016_10_05.md)(今井 友揮)
 * [@t-mangoe](https://github.com/handai-trema/hello-trema-t-mangoe/blob/develop/report.pdf)(満越 貴志)
+
+
 
 ## 課題: Hello Trema
 
@@ -91,6 +94,7 @@
 * [@yusuke-hara](https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05_2.md)(原 佑輔)
 * [@Kazuki-Ginnan](https://github.com/handai-trema/hello-trema-Kazuki-Ginnan/blob/develop2/161010_report2.md)(銀杏一輝)
 * [@yosuke-akishita](https://github.com/handai-trema/hello-trema-yosuke-akishita/blob/develop/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-1-3.pdf) (秋下耀介)
+* [@k-satake](https://github.com/handai-trema/hello-trema-ksatake/blob/master/report1.md)(佐竹 幸大)
 * [@yamatchan](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
 * [@nsyuyu](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)(西村 友佑)
 * [@shuya-abe](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/Report1_3.md)(阿部修也)
@@ -117,6 +121,7 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/cbench-Kazuki-Ginnan/blob/develop/profile_report.md)(銀杏一輝)
 * [@d-miura](https://github.com/handai-trema/cbench-d-miura/blob/master/Report1012.md)(三浦太樹)
 * [@yosuke-akishita](https://github.com/handai-trema/cbench-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-cbench%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96.pdf)(秋下耀介)
+* [@k-satake](https://github.com/handai-trema/cbench-ksatake/blob/master/%E8%AA%B2%E9%A1%8C3-1.pdf)(佐竹 幸大)
 * [@tomok0823](https://github.com/handai-trema/cbench-tomok0823/blob/master/report/report.md)(今井友揮)
 * [@k-sakamoto3](https://github.com/handai-trema/cbench-k-sakamoto3/blob/master/report2-1.md)(坂本昂輝)
 * [@yusuke-hara](https://github.com/handai-trema/cbench-yusuke-hara/blob/master/report.md)(原 佑輔)
@@ -139,6 +144,7 @@
 * [@Kazuki-Ginnan](https://github.com/handai-trema/learning-switch-Kazuki-Ginnan/blob/develop2/multibridge_report.md)(銀杏一輝)
 * [@d-miura](https://github.com/handai-trema/learning-switch-d-miura/blob/master/report1012-2.md)(三浦太樹)
 * [@yosuke-akishita](https://github.com/handai-trema/learning-switch-yosuke-akishita/blob/master/%E6%83%85%E5%A0%B1%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%AD%A6%E6%BC%94%E7%BF%922-y-akishita-%E8%A4%87%E6%95%B0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C.pdf)(秋下耀介)
+* [@k-satake](https://github.com/handai-trema/learning-switch-ksatake/blob/master/%E8%AA%B2%E9%A1%8C3-2.pdf)(佐竹 幸大)
 * [@tomok0823](https://github.com/handai-trema/learning-switch-tomok0823/blob/master/report.md)(今井友揮)
 * [@k-sakamoto3](https://github.com/handai-trema/learning-switch-k-sakamoto3/blob/master/report2-2.md)(坂本昂輝)
 * [@KokiSakata](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161012learning_switch.md)(坂田 航樹)
@@ -154,6 +160,7 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/patch-panel-Tatsu-Tanaka/blob/master/report_patch_panel.md) (田中 達也)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/patch-panel-Shu-NISHIKORI/blob/develop/reports/20161019/report.md) (錦織 秀)
 * [@yosuke-akishita](https://github.com/handai-trema/patch-panel-yosuke-akishita/blob/master/ensyuu2-y-akishita-patch-panel.pdf)(秋下耀介)
+* [@k-satake](https://github.com/handai-trema/patch-panel-ksatake/blob/master/%E3%83%AC%E3%83%9B%E3%82%9A%E3%83%BC%E3%83%88%E8%AA%B2%E9%A1%8C%EF%BC%93.pdf)(佐竹 幸大)
 * [@Nagatomi-Ken](https://github.com/handai-trema/patch-panel-Nagatomi-Ken/blob/develop/report3-1.md)(永富賢）
 * [@tomok0823](https://github.com/handai-trema/patch-panel-tomok0823/blob/develop/report.md)(今井 友揮)
 * [@t-kito](https://github.com/handai-trema/patch-panel-t-kito/blob/develop/report3-1.md)(木藤嵩人)
@@ -174,6 +181,7 @@
 * [@Tatsu-Tanaka](https://github.com/handai-trema/learning-switch-Tatsu-Tanaka/blob/master/report_learning_switch13.md) (田中 達也)
 * [@Shu-NISHIKORI](https://github.com/handai-trema/learning-switch-Shu-NISHIKORI/blob/develop/reports/20161019/report2.md) (錦織 秀)
 * [@yosuke-akishita](https://github.com/handai-trema/learning-switch-yosuke-akishita/blob/master/ensyuu2-y-akishita-multi-table.pdf)(秋下耀介)
+* [@k-satake](https://github.com/handai-trema/learning-switch-ksatake/blob/master/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%95%E3%82%9A%E3%83%AB%E3%83%86%E3%83%BC%E3%83%95%E3%82%99%E3%83%AB%E3%82%92%E8%AA%AD%E3%82%80.pdf)(佐竹 幸大)
 * [@Nagatomi-Ken](https://github.com/handai-trema/learning-switch-Nagatomi-Ken/blob/develop/report3-2.md)(永富賢)
 * [@yusuke-hara](https://github.com/handai-trema/learning-switch-yusuke-hara/blob/master/report13.md)(原佑輔)
 * [@t-kito](https://github.com/handai-trema/learning-switch-t-kito/blob/develop/report3-2.md)(木藤嵩人)
@@ -205,6 +213,7 @@
 * [@nsyuyu](https://github.com/handai-trema/simple-router-nsyuyu/blob/master/report.md)(西村 友佑)
 * [@KokiSakata](https://github.com/handai-trema/simple-router-KokiSakata/blob/master/report20161102Developing%20Router%20CLI.md)(坂田 航樹)
 * [@yosuke-akishita](https://github.com/handai-trema/simple-router-yosuke-akishita/blob/master/ensyuu2-y-akishita-simple-router.pdf)(秋下耀介)
+* [@k-satake](https://github.com/handai-trema/simple-router-ksatake/blob/master/%E6%BC%94%E7%BF%92%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%95.pdf)(佐竹 幸大)
 * [@Takuya-Saitoh](https://github.com/handai-trema/simple-router-Takuya-Saitoh/blob/master/report05.md)(齋藤卓哉)
 * [@t-mangoe](https://github.com/handai-trema/simple-router-t-mangoe/blob/develop/paper.pdf)(満越 貴志)
 
