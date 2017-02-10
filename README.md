@@ -80,7 +80,7 @@
 * [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
 * [@tomok0823](https://github.com/handai-trema/hello-trema-tomok0823/blob/develop/report/2016_10_05.md)(今井 友揮)
 * [@t-mangoe](https://github.com/handai-trema/hello-trema-t-mangoe/blob/develop/report.pdf)(満越 貴志)
-
+* [@Ryo-Murakami](https://github.com/handai-trema/hello-trema-Ryo-Murakami/blob/develop/report1.md)(村上 遼)
 
 
 ## 課題: Hello Trema
@@ -105,7 +105,7 @@
 * [@d-miura](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md)(三浦太樹)
 * [@tomok0823](https://github.com/handai-trema/hello-trema-tomok0823/blob/develop/report/2016_10_05.md)(今井 友揮)
 * [@t-mangoe](https://github.com/handai-trema/hello-trema-t-mangoe/blob/develop/report.pdf)(満越 貴志)
-
+* [@Ryo-Murakami](https://github.com/handai-trema/hello-trema-Ryo-Murakami/blob/develop/report2.md)(村上 遼)
 
 ## 課題: Cbench のボトルネック調査
 * [@k-tsuji](https://github.com/handai-trema/cbench-k-tsuji/blob/master/report_cbench.md) (辻　健太)
@@ -128,6 +128,7 @@
 * [@KokiSakata](https://github.com/handai-trema/cbench-KokiSakata/blob/master/report20161012cbench.md)(坂田 航樹)
 * [@Takuya-Saitoh](https://github.com/handai-trema/cbench-Takuya-Saitoh/blob/master/report.md)(齋藤卓哉)
 * [@t-mangoe](https://github.com/handai-trema/cbench-t-mangoe/blob/develop/report.pdf)(満越 貴志)
+* [@Ryo-Murakami](https://github.com/handai-trema/cbench-Ryo-Murakami/blob/develop/report_cbench.md)(村上 遼)
 
 ## 課題: 複数スイッチ対応版 ラーニングスイッチ
 * [@k-tsuji](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md) (辻　健太)
@@ -150,6 +151,7 @@
 * [@KokiSakata](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161012learning_switch.md)(坂田 航樹)
 * [@Takuya-Saitoh](https://github.com/handai-trema/learning-switch-Takuya-Saitoh/blob/master/report.md)(齋藤卓哉)
 * [@t-mangoe](https://github.com/handai-trema/learning-switch-t-mangoe/blob/develop/report.pdf)(満越 貴志)
+* [@Ryo-Murakami](https://github.com/handai-trema/learning-switch-Ryo-Murakami/blob/master/multi_learning_switch.pdf)(村上 遼)
 
 ## 課題: パッチパネルの機能拡張
 * [@yamatchan](https://github.com/handai-trema/patch-panel-yamatchan/blob/master/report.md)
